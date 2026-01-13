@@ -1,7 +1,7 @@
 type: outline
 id: jh-20XBsjJqQ3M7R
 created: 1767981751307
-modified: 1768330798528
+modified: 1768331455590
 root:
   type: outline_item
   id: B__MY_NCxD5yDGZq
@@ -2886,7 +2886,7 @@ root:
   color: '#555'
 base_hash: deec46d8
 view_root_id: B__MY_NCxD5yDGZq
-show_help: false
+show_help: true
 show_statistics: false
 bookmark_ids:
   - B__MY_NCxD5yDGZq
