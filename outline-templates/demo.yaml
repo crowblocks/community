@@ -1,7 +1,7 @@
 type: outline
 id: jh-20XBsjJqQ3M7R
 created: 1767981751307
-modified: 1768276575030
+modified: 1768330798528
 root:
   type: outline_item
   id: B__MY_NCxD5yDGZq
@@ -12,83 +12,83 @@ root:
     - type: outline_item
       id: KC8zY8tg58kjyHlP
       created: 1768275076287
-      modified: 1768275301125
+      modified: 1768328120674
       value: Welcome!
       children:
         - type: outline_item
           id: 9f1jYZQ9mc8vlbCP
           created: 1768275098954
-          modified: 1768275120914
+          modified: 1768328190008
           value: 'As the name suggests, "outline" is for creating outlines'
           children: []
           page: false
           collapsed: false
           view_type: unordered
-          color: '#a716d0'
+          color: '#bc5bd7'
         - type: outline_item
           id: KNWVJcTqCk4kKMmg
           created: 1768275121811
-          modified: 1768275162836
+          modified: 1768328193567
           value: Each outline item can be given attributes that affect its style or behavior
           children: []
           page: false
           collapsed: false
           view_type: unordered
-          color: '#a716d0'
+          color: '#bc5bd7'
         - type: outline_item
           id: gnBNhT1J-4zw9kbc
           created: 1768275164938
-          modified: 1768275183446
+          modified: 1768328197511
           value: 'For example, items in BOLD navigate to a new page'
           children: []
           page: false
           collapsed: false
           view_type: unordered
-          color: '#a716d0'
+          color: '#bc5bd7'
         - type: outline_item
           id: SsNf8ByvWlz54jJZ
           created: 1768275263866
-          modified: 1768275270493
+          modified: 1768328200498
           value: Right clicking on an item will show you all the properties
           children: []
           page: false
           collapsed: false
           view_type: unordered
-          color: '#a716d0'
+          color: '#bc5bd7'
         - type: outline_item
           id: t9LhNJy40p_4DZlV
           created: 1768275287927
-          modified: 1768275309126
+          modified: 1768328203620
           value: You can also switch files via the toolbar above
           children:
             - type: outline_item
               id: 2kKRk7D9hPwjg1nw
               created: 1768275301060
-              modified: 1768275308837
+              modified: 1768328206871
               value: (but you probably want to stay in the demo for now)
               children: []
               page: false
               collapsed: false
               view_type: unordered
-              color: '#a716d0'
+              color: '#bc5bd7'
             - type: outline_item
               id: dsHhF5fmWbJ-XLRJ
               created: 1768275309126
-              modified: 1768275319289
+              modified: 1768328209792
               value: (you can always reset the demo content...also in the toolbar)
               children: []
               page: false
               collapsed: false
               view_type: unordered
-              color: '#a716d0'
+              color: '#bc5bd7'
           page: false
           collapsed: false
           view_type: unordered
-          color: '#a716d0'
+          color: '#bc5bd7'
       page: false
       collapsed: false
       view_type: unordered
-      color: '#a716d0'
+      color: '#bc5bd7'
     - type: outline_item
       id: LsYt2JMQ0WT76RzP
       created: 1768167322561
@@ -98,14 +98,114 @@ root:
         - type: outline_item
           id: FDW7Bp6s13hrhq6J
           created: 1768152926342
-          modified: 1768275225270
+          modified: 1768328902924
           value: Click here to see some of the outline features
           children:
             - type: outline_item
+              id: lhmZYkLszW34xvbC
+              created: 1768166066313
+              modified: 1768166175347
+              value: Unordered lists
+              children:
+                - type: outline_item
+                  id: 0022h81-D_rZr2sf
+                  created: 1768166073393
+                  modified: 1768166079721
+                  value: Apples
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+                - type: outline_item
+                  id: 3hhXyGhww6tQkhzn
+                  created: 1768166080000
+                  modified: 1768166082291
+                  value: Bananas
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+                - type: outline_item
+                  id: XhG1m_xKvcC6P4hs
+                  created: 1768166076708
+                  modified: 1768166086441
+                  value: Crocodiles
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+                - type: outline_item
+                  id: sypvsxX9lZXPv3bG
+                  created: 1768166087435
+                  modified: 1768166089043
+                  value: Donuts
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: null
+            - type: outline_item
+              id: 1jYJ_MqYjvKcGjlX
+              created: 1768165958202
+              modified: 1768166177907
+              value: Ordered lists
+              children:
+                - type: outline_item
+                  id: N7sFC5-bj2MzyK92
+                  created: 1768165960394
+                  modified: 1768165962750
+                  value: Item 1
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+                - type: outline_item
+                  id: bJYZK_tdrC9TlR5S
+                  created: 1768165962952
+                  modified: 1768165963980
+                  value: Item 2
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+                - type: outline_item
+                  id: hcs4YMbrXX3tR2VN
+                  created: 1768165964229
+                  modified: 1768165965138
+                  value: Item 3
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+                - type: outline_item
+                  id: S9m_89F3YRGWYFyT
+                  created: 1768165965500
+                  modified: 1768165966587
+                  value: Item 4
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#574f96'
+              page: false
+              collapsed: false
+              view_type: ordered
+              color: null
+            - type: outline_item
               id: LN-yQcBQLzjfnNmr
               created: 1768172661784
-              modified: 1768275253491
-              value: Basic outlines
+              modified: 1768328264271
+              value: Outlines
               children:
                 - type: outline_item
                   id: qPh0skzF2F3wV_0p
@@ -232,106 +332,6 @@ root:
               view_type: unordered
               color: null
             - type: outline_item
-              id: lhmZYkLszW34xvbC
-              created: 1768166066313
-              modified: 1768166175347
-              value: Unordered lists
-              children:
-                - type: outline_item
-                  id: 0022h81-D_rZr2sf
-                  created: 1768166073393
-                  modified: 1768166079721
-                  value: Apples
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: 3hhXyGhww6tQkhzn
-                  created: 1768166080000
-                  modified: 1768166082291
-                  value: Bananas
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: XhG1m_xKvcC6P4hs
-                  created: 1768166076708
-                  modified: 1768166086441
-                  value: Crocodiles
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: sypvsxX9lZXPv3bG
-                  created: 1768166087435
-                  modified: 1768166089043
-                  value: Donuts
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: 1jYJ_MqYjvKcGjlX
-              created: 1768165958202
-              modified: 1768166177907
-              value: Ordered lists
-              children:
-                - type: outline_item
-                  id: N7sFC5-bj2MzyK92
-                  created: 1768165960394
-                  modified: 1768165962750
-                  value: Item 1
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: bJYZK_tdrC9TlR5S
-                  created: 1768165962952
-                  modified: 1768165963980
-                  value: Item 2
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: hcs4YMbrXX3tR2VN
-                  created: 1768165964229
-                  modified: 1768165965138
-                  value: Item 3
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: S9m_89F3YRGWYFyT
-                  created: 1768165965500
-                  modified: 1768165966587
-                  value: Item 4
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-              page: false
-              collapsed: false
-              view_type: ordered
-              color: null
-            - type: outline_item
               id: z10zdJtnZ_4140d4
               created: 1768170427524
               modified: 1768172596186
@@ -362,7 +362,7 @@ root:
                 - type: outline_item
                   id: qgCQHbsthydZYlxM
                   created: 1768172579195
-                  modified: 1768172590861
+                  modified: 1768330774719
                   value: Another not done item
                   children: []
                   page: false
@@ -388,24 +388,16 @@ root:
             - type: outline_item
               id: LNLs_ffcsXHCnLNF
               created: 1768165983915
-              modified: 1768173713328
+              modified: 1768328351002
               value: Groups
               children:
                 - type: outline_item
-                  id: nn-nhvswm2Pj1ltW
-                  created: 1768165987974
-                  modified: 1768166003346
-                  value: This page treats the sub-items as groups!
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
                   id: rqdFzdgVt3WCPX--
                   created: 1768166096883
-                  modified: 1768174197381
-                  value: The group view adds a bottom border and some alternate spacing
+                  modified: 1768328351002
+                  value: >-
+                    This page is set to group all the top-level items.  Groupings can be set any any level of the
+                    outline though.
                   children:
                     - type: outline_item
                       id: PKvvhCxvxl8jL6pk
@@ -430,7 +422,7 @@ root:
                     - type: outline_item
                       id: 5-KtS9GNKP0KTD44
                       created: 1768174055450
-                      modified: 1768175082827
+                      modified: 1768328349651
                       value: Sub-groups
                       children:
                         - type: outline_item
@@ -460,6 +452,16 @@ root:
                   page: false
                   collapsed: false
                   view_type: groups
+                  color: '#574f96'
+                - type: outline_item
+                  id: qmjx4Gkp119ptwss
+                  created: 1768328349012
+                  modified: 1768328364849
+                  value: 'The grouping property applies to all children, but does not affect items at other levels.'
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
                   color: '#574f96'
               page: false
               collapsed: false
@@ -712,6 +714,250 @@ root:
               view_type: unordered
               color: null
             - type: outline_item
+              id: bPb-kyvcR3xmJy9R
+              created: 1768264416241
+              modified: 1768328946530
+              value: Weekly Tracker
+              children:
+                - type: outline_item
+                  id: 4pLFHJH6mDdVLn6x
+                  created: 1768264432756
+                  modified: 1768328751089
+                  value: Am I making progress?
+                  children:
+                    - type: outline_item
+                      id: XX5p8TQ1T8gcNn82
+                      created: 1768328467836
+                      modified: 1768328697890
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: tracker
+                      color: null
+                    - type: outline_item
+                      id: lW_4m7RG0XwSrb-y
+                      created: 1768328413052
+                      modified: 1768328413052
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: 39GMj32CY2HWmPqn
+                      created: 1768328408210
+                      modified: 1768328408210
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: gtHQHWkvJhMsWTB1
+                      created: 1768328407680
+                      modified: 1768328407680
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: sXqTlbqTgyvQwmB1
+                      created: 1768328407297
+                      modified: 1768328407297
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: gYxgrSWbncpwcwgl
+                      created: 1768328406930
+                      modified: 1768328406930
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: null
+                - type: outline_item
+                  id: f--JCdRvQT2WHjKm
+                  created: 1768328414989
+                  modified: 1768328748589
+                  value: Did I walk the dog?
+                  children:
+                    - type: outline_item
+                      id: 1PFds_c1B4NmP62b
+                      created: 1768328712050
+                      modified: 1768328718096
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: sgkhHzG2rWhvjt1C
+                      created: 1768328426161
+                      modified: 1768328426161
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: scb9lw3gg9KQCcsw
+                      created: 1768328425270
+                      modified: 1768328425270
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: QDm9QjSgzW0w5YY4
+                      created: 1768328422345
+                      modified: 1768328422568
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: xfsdDkMc6m_KFF0V
+                      created: 1768328421581
+                      modified: 1768328421766
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: null
+                - type: outline_item
+                  id: L253M9LvsrTQ_T8h
+                  created: 1768328727228
+                  modified: 1768328789191
+                  value: How many push-ups did I do?
+                  children:
+                    - type: outline_item
+                      id: zCPJ4MwyZHnV4Kbx
+                      created: 1768328744096
+                      modified: 1768328756002
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: '-5R-h715TWx2BPpW'
+                      created: 1768328733748
+                      modified: 1768328770022
+                      value: '.options 0, 5, 10, 20, 100, 5000'
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: VLk9-Zg16QychDcG
+                      created: 1768328786459
+                      modified: 1768328786459
+                      value: '5000'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: 4hjkJd17JRNL5QfG
+                      created: 1768328785040
+                      modified: 1768328785040
+                      value: '100'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: nbxBs6xmZ7kC-cC5
+                      created: 1768328783454
+                      modified: 1768328783454
+                      value: '20'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: _ggSY9DMWwZ72cV8
+                      created: 1768328776567
+                      modified: 1768328782036
+                      value: '5'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: gh7znBTGHCzH326v
+                      created: 1768328778612
+                      modified: 1768328780774
+                      value: '0'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: null
+                - type: outline_item
+                  id: hTjkMkwBF495dd8q
+                  created: 1768328944332
+                  modified: 1768328959618
+                  value: 'For demonstration purposes, the above are locked to a fixed date!'
+                  children: []
+                  page: false
+                  collapsed: true
+                  view_type: unordered
+                  color: null
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: null
+            - type: outline_item
               id: nXlB_cvdnCvRdylC
               created: 1768253591854
               modified: 1768265072665
@@ -870,26 +1116,6 @@ root:
               view_type: article
               color: null
             - type: outline_item
-              id: bPb-kyvcR3xmJy9R
-              created: 1768264416241
-              modified: 1768265343563
-              value: Weekly Tracker
-              children:
-                - type: outline_item
-                  id: 4pLFHJH6mDdVLn6x
-                  created: 1768264432756
-                  modified: 1768265371277
-                  value: NOT YET IMPLEMENTED
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
               id: 5SxjVrLNGD9Q3D9t
               created: 1768265342996
               modified: 1768265364691
@@ -940,7 +1166,7 @@ root:
     - type: outline_item
       id: PnXK2TvJd1kMDKdv
       created: 1768181381005
-      modified: 1768275733478
+      modified: 1768329555340
       value: Examples (work-in-progress)
       children:
         - type: outline_item
@@ -1211,6 +1437,871 @@ root:
           view_type: groups
           color: null
         - type: outline_item
+          id: cXn6DwMGX5ykMqgF
+          created: 1768186800490
+          modified: 1768329059664
+          value: Habit tracker
+          children:
+            - type: outline_item
+              id: X70LlmM14YKblXCs
+              created: 1768327073511
+              modified: 1768329151314
+              value: Health
+              children:
+                - type: outline_item
+                  id: Vp2DmSHcFSzXDNTg
+                  created: 1768321589544
+                  modified: 1768329132597
+                  value: Mood tracker
+                  children:
+                    - type: outline_item
+                      id: KRFCFZ2_X1N8fSzY
+                      created: 1768329073755
+                      modified: 1768329092638
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: QTpHWpV779DSz9G3
+                      created: 1768323973624
+                      modified: 1768325670823
+                      value: '.options good, meh, bad'
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: ZLcd81RxbkQ7ZlG3
+                      created: 1768324733922
+                      modified: 1768325676637
+                      value: .neutral meh
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: r3slYfyNHhlQGzK1
+                      created: 1768324724181
+                      modified: 1768325674835
+                      value: .negative bad
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: YRcfFFj6T2V-mMF8
+                      created: 1768329132597
+                      modified: 1768329132597
+                      value: good
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: DDDB-rPCqnmmZ1LX
+                      created: 1768329124097
+                      modified: 1768329124097
+                      value: good
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: SmsMrL1yn5XYDXXC
+                      created: 1768329121640
+                      modified: 1768329129823
+                      value: bad
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: N1xkQ-m3hknZTN36
+                      created: 1768325685429
+                      modified: 1768325685429
+                      value: good
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: JdRcmtZXnQDwVyG6
+                      created: 1768325687326
+                      modified: 1768327760825
+                      value: meh
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#c5307f'
+                - type: outline_item
+                  id: _mzcdkLCkWdjD3G2
+                  created: 1768327514346
+                  modified: 1768329178694
+                  value: Healthy meals
+                  children:
+                    - type: outline_item
+                      id: LxDRbFN1ZKnmHHm8
+                      created: 1768329099907
+                      modified: 1768329113635
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: B5r24ZM65DP5Kxwf
+                      created: 1768329164976
+                      modified: 1768329164976
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: 3yr9LsNVdlh2c3RB
+                      created: 1768329178694
+                      modified: 1768329180244
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: pK6lvZylZ3lknVpT
+                      created: 1768329162386
+                      modified: 1768329162386
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: gsCD-rKWW-0mGwLq
+                      created: 1768327526376
+                      modified: 1768327526376
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#c5307f'
+                - type: outline_item
+                  id: DRNTC321rqBx8CG6
+                  created: 1768327774860
+                  modified: 1768329167938
+                  value: '10,000 steps'
+                  children:
+                    - type: outline_item
+                      id: '-Zm-Ht-2s-9M9PY2'
+                      created: 1768329167938
+                      modified: 1768329167938
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: bZQmlQBdrSlg899H
+                      created: 1768329136699
+                      modified: 1768329136699
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: wjgZnrmZL851BJVV
+                      created: 1768329135714
+                      modified: 1768329138888
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: glr8x7P8ls-xrK41
+                      created: 1768329140963
+                      modified: 1768329140963
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: 0TD95l0cZhn3X1r8
+                      created: 1768327779764
+                      modified: 1768327779930
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                    - type: outline_item
+                      id: kt_f0z5VknhYc0R-
+                      created: 1768329144880
+                      modified: 1768329146597
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: tracker
+                      color: '#c5307f'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#c5307f'
+                - type: outline_item
+                  id: p_MfjNMMm4nXhFxj
+                  created: 1768327547795
+                  modified: 1768329174035
+                  value: Good sleep
+                  children:
+                    - type: outline_item
+                      id: gLC4FsWHXm7RL-kZ
+                      created: 1768329174034
+                      modified: 1768329174034
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: wrP-1tzQ7Yx18472
+                      created: 1768329173167
+                      modified: 1768329173289
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: HBqCQGBJ3cdDfPZb
+                      created: 1768327552261
+                      modified: 1768327552261
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: ghMgL2pD8fq_6hLz
+                      created: 1768327556407
+                      modified: 1768327556686
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                    - type: outline_item
+                      id: 1_z4ChSY55k76HzZ
+                      created: 1768329150872
+                      modified: 1768329156965
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: unordered
+                      color: '#c5307f'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#c5307f'
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#c5307f'
+            - type: outline_item
+              id: MNGwZRZq7LJQ7-4D
+              created: 1768327035664
+              modified: 1768329207187
+              value: Exercise
+              children:
+                - type: outline_item
+                  id: t1zJp92xWYMBzjB-
+                  created: 1768275733263
+                  modified: 1768329223813
+                  value: Gym
+                  children:
+                    - type: outline_item
+                      id: Hr8GXdtpGNG5YL6_
+                      created: 1768329223813
+                      modified: 1768329223813
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: KmP5fHL52Lx_8-nK
+                      created: 1768329223051
+                      modified: 1768329241822
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: zKypVVn7RGcLwr_l
+                      created: 1768320747639
+                      modified: 1768322887301
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                    - type: outline_item
+                      id: scFp-hYwVF11_dJl
+                      created: 1768329188175
+                      modified: 1768329199507
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: unordered
+                      color: '#1fc150'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#1fc150'
+                - type: outline_item
+                  id: 8HgfrxcWf5v4ms9N
+                  created: 1768321540760
+                  modified: 1768329229827
+                  value: Push-ups
+                  children:
+                    - type: outline_item
+                      id: 9yJygx5F-35s2kFk
+                      created: 1768321543015
+                      modified: 1768323292662
+                      value: '.options 0,5,10,20,25'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                    - type: outline_item
+                      id: 50WnRR7thb46w0Fw
+                      created: 1768329229827
+                      modified: 1768329229827
+                      value: '10'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: '-bnXPb5qgkddlyk4'
+                      created: 1768329228486
+                      modified: 1768329228486
+                      value: '0'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: H-pQTbDk0GmtKjBq
+                      created: 1768329227299
+                      modified: 1768329227299
+                      value: '10'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: XV5lpjWCqQxkgb5G
+                      created: 1768321877444
+                      modified: 1768321883131
+                      value: '5'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: 9QpzdMG2ZTbwBDPT
+                      created: 1768323295523
+                      modified: 1768327944415
+                      value: '20'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                    - type: outline_item
+                      id: xQpmkPqnPmJ3dhrb
+                      created: 1768329200120
+                      modified: 1768329200511
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: '#1fc150'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#1fc150'
+                - type: outline_item
+                  id: VfbV84nTnvnQcFZ3
+                  created: 1768327868435
+                  modified: 1768329236458
+                  value: Run
+                  children:
+                    - type: outline_item
+                      id: D6zVHWDz1yY-jCjc
+                      created: 1768329233964
+                      modified: 1768329233964
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: cWfllNj9CsS5NSSy
+                      created: 1768329236458
+                      modified: 1768329236458
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: M_yCkG-5l2dJNyYy
+                      created: 1768329232249
+                      modified: 1768329235549
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: 5DybZwJnKcQyHhgt
+                      created: 1768328036119
+                      modified: 1768328036119
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: WrNjplT7wnBjsNWD
+                      created: 1768329200830
+                      modified: 1768329201045
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: '#1fc150'
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#1fc150'
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#1fc150'
+            - type: outline_item
+              id: kmGMMX3cJMwfzBZK
+              created: 1768327500398
+              modified: 1768329310933
+              value: Projects
+              children:
+                - type: outline_item
+                  id: fSt4QlcknW_Zxp7l
+                  created: 1768327580569
+                  modified: 1768329306275
+                  value: Bathroom remodel
+                  children:
+                    - type: outline_item
+                      id: _mtgfKD_NzdVVKB_
+                      created: 1768327600983
+                      modified: 1768327600983
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: wf_lKwHxNyKMpmST
+                      created: 1768329280796
+                      modified: 1768329295868
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: true
+                      view_type: unordered
+                      color: null
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#698bce'
+                - type: outline_item
+                  id: HxfXvxqmR41WFC0S
+                  created: 1768327811274
+                  modified: 1768329340870
+                  value: TPS Report template
+                  children:
+                    - type: outline_item
+                      id: G738N-MKCNMPMwWl
+                      created: 1768329253362
+                      modified: 1768329253362
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: ScJSWCtwYyb0VVgr
+                      created: 1768327828170
+                      modified: 1768327828170
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                    - type: outline_item
+                      id: ZWLNbB1h9q7-S5M8
+                      created: 1768329296926
+                      modified: 1768329297355
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#698bce'
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#698bce'
+            - type: outline_item
+              id: mTmw_mvDf_XqYM75
+              created: 1768327507677
+              modified: 1768329318077
+              value: Routines
+              children:
+                - type: outline_item
+                  id: F65vw_c0Dl2Lg-N7
+                  created: 1768327710863
+                  modified: 1768329336189
+                  value: Read for 20+ minutes before bed
+                  children:
+                    - type: outline_item
+                      id: HrjgQVvV4kbVBTvf
+                      created: 1768329265834
+                      modified: 1768329265834
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: z3zll9ZYdF8PPmQ8
+                      created: 1768329259526
+                      modified: 1768329259739
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: rWJRlGYjmZb8KNRM
+                      created: 1768327741463
+                      modified: 1768327741463
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: y565GXk5b-jfBngR
+                      created: 1768329297642
+                      modified: 1768329297856
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#f5982e'
+                - type: outline_item
+                  id: dkJM92fG38PMCL2p
+                  created: 1768327770509
+                  modified: 1768329333624
+                  value: Bullet journal morning entry
+                  children:
+                    - type: outline_item
+                      id: sDmd8TcXNjYLTThl
+                      created: 1768329269680
+                      modified: 1768329269680
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-16'
+                    - type: outline_item
+                      id: FwFCHrX8lTFXmjCq
+                      created: 1768329273557
+                      modified: 1768329273557
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: YbXcd8n-gFLkllNB
+                      created: 1768329260710
+                      modified: 1768329260883
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: 1NY_t79h7s1NbMzJ
+                      created: 1768327860070
+                      modified: 1768327860070
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: z629Df8N6CX4hNyb
+                      created: 1768327859097
+                      modified: 1768327859097
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                    - type: outline_item
+                      id: b3st0P2fpZn0s4pJ
+                      created: 1768329298225
+                      modified: 1768329298424
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#f5982e'
+                - type: outline_item
+                  id: JLMpVzyb0w6w21Q-
+                  created: 1768327848277
+                  modified: 1768329332287
+                  value: Bullet journal evening entry
+                  children:
+                    - type: outline_item
+                      id: SMqTytpqgLjwMVQj
+                      created: 1768329273923
+                      modified: 1768329274107
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-15'
+                    - type: outline_item
+                      id: 41xn9CwyFrhl_nCc
+                      created: 1768329262653
+                      modified: 1768329262848
+                      value: 'false'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-14'
+                    - type: outline_item
+                      id: T44nm4Pf9ClVvC_p
+                      created: 1768327860522
+                      modified: 1768327860522
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-13'
+                    - type: outline_item
+                      id: rfL-nHGH42QCDdWq
+                      created: 1768327859516
+                      modified: 1768327859516
+                      value: 'true'
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                      date: '2026-01-12'
+                    - type: outline_item
+                      id: DsSpKF-C-bsLSGMn
+                      created: 1768329299395
+                      modified: 1768329299638
+                      value: .view-datestamp 2026-01-16
+                      children: []
+                      page: false
+                      collapsed: false
+                      view_type: unordered
+                      color: null
+                  page: false
+                  collapsed: true
+                  view_type: tracker
+                  color: '#f5982e'
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#f5982e'
+            - type: outline_item
+              id: R_YKVMgFpj34xY2Y
+              created: 1768329059664
+              modified: 1768329059664
+              value: ''
+              children: []
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#ffffff'
+            - type: outline_item
+              id: 2p_PlS5xspKMrWml
+              created: 1768328983124
+              modified: 1768329052743
+              value: Notes on the above!
+              children:
+                - type: outline_item
+                  id: Tz9ZWV0TCKym2q3t
+                  created: 1768328987470
+                  modified: 1768329065980
+                  value: 'For demonstration purposes, the above are locked to a fixed date!'
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#ffffff'
+                - type: outline_item
+                  id: '-mQ-NyG3ML66sZq6'
+                  created: 1768328998316
+                  modified: 1768329041962
+                  value: 'Normally, the tracker always shows the current week and highlights the current day'
+                  children: []
+                  page: false
+                  collapsed: false
+                  view_type: unordered
+                  color: '#ffffff'
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#ffffff'
+          page: true
+          collapsed: true
+          view_type: groups
+          color: null
+        - type: outline_item
           id: sWWxfPyjbDsTG1vz
           created: 1768078580703
           modified: 1768275760073
@@ -1241,7 +2332,7 @@ root:
             - type: outline_item
               id: 58TwYyxKtlszX_V7
               created: 1768148479335
-              modified: 1768275414668
+              modified: 1768329719352
               value: Confident
               children:
                 - type: outline_item
@@ -1283,6 +2374,17 @@ root:
                       color: null
                   page: false
                   collapsed: true
+                  view_type: unordered
+                  color: null
+                  priority: 2
+                - type: outline_item
+                  id: TZDPQn2RcXq5Tcrm
+                  created: 1768329575404
+                  modified: 1768329715162
+                  value: Walk Fido every day
+                  children: []
+                  page: false
+                  collapsed: false
                   view_type: unordered
                   color: null
                   priority: 2
@@ -1388,36 +2490,6 @@ root:
           collapsed: true
           view_type: groups
           color: null
-        - type: outline_item
-          id: cXn6DwMGX5ykMqgF
-          created: 1768186800490
-          modified: 1768275740670
-          value: Habit tracker
-          children:
-            - type: outline_item
-              id: t1zJp92xWYMBzjB-
-              created: 1768275733263
-              modified: 1768275736715
-              value: Not yet implemented!!!
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-          page: true
-          collapsed: true
-          view_type: unordered
-          color: null
-        - type: outline_item
-          id: 1gLVBNG5LkPV8lJw
-          created: 1768186803459
-          modified: 1768275488168
-          value: ''
-          children: []
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: null
       page: false
       collapsed: false
       view_type: unordered
@@ -1425,20 +2497,31 @@ root:
     - type: outline_item
       id: 6mHxZk3wtN-88bdn
       created: 1768076574214
-      modified: 1768276448584
+      modified: 1768328068457
       value: Roadmap
       children:
         - type: outline_item
           id: _KzNWNkMSM9hxQ6L
           created: 1768276287269
-          modified: 1768276450597
+          modified: 1768328064131
           value: Near-term
           children:
             - type: outline_item
-              id: pCfG3m2-rnWLZ2SN
-              created: 1768276190013
-              modified: 1768276234476
-              value: Weekly tracker view
+              id: 69hJByfVMs2gK5cb
+              created: 1768328046157
+              modified: 1768328049163
+              value: Undo / redo
+              children: []
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#555'
+              status: todo
+            - type: outline_item
+              id: NK3lJy8bDmfl6YmQ
+              created: 1768276375527
+              modified: 1768276398540
+              value: Drag & drop / multi-select items
               children: []
               page: false
               collapsed: false
@@ -1512,17 +2595,6 @@ root:
               color: '#555'
               status: todo
             - type: outline_item
-              id: NK3lJy8bDmfl6YmQ
-              created: 1768276375527
-              modified: 1768276398540
-              value: Drag & drop / multi-select items
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
               id: G_LfYgYtB9YstRCN
               created: 1768276423922
               modified: 1768276429382
@@ -1580,7 +2652,7 @@ root:
               id: DdS4gr04dXz8r_nV
               created: 1768276465205
               modified: 1768276480981
-              value: Ability to edit local files
+              value: Ability to end local files
               children: []
               page: false
               collapsed: false
@@ -1671,7 +2743,7 @@ root:
         - type: outline_item
           id: b9_gvTTkh1CC0hlm
           created: 1768276444449
-          modified: 1768276448584
+          modified: 1768328068458
           value: Done
           children:
             - type: outline_item
@@ -1759,6 +2831,17 @@ root:
               view_type: unordered
               color: null
               status: done
+            - type: outline_item
+              id: pCfG3m2-rnWLZ2SN
+              created: 1768276190013
+              modified: 1768328062078
+              value: Weekly tracker view
+              children: []
+              page: false
+              collapsed: false
+              view_type: unordered
+              color: '#555'
+              status: done
           page: false
           collapsed: false
           view_type: unordered
@@ -1801,7 +2884,7 @@ root:
   collapsed: false
   view_type: groups
   color: '#555'
-base_hash: 62dda7a6
+base_hash: deec46d8
 view_root_id: B__MY_NCxD5yDGZq
 show_help: false
 show_statistics: false
@@ -1811,6 +2894,8 @@ bookmark_ids:
   - FDW7Bp6s13hrhq6J
   - sWWxfPyjbDsTG1vz
   - nXlB_cvdnCvRdylC
+  - TfqhRl7FBQ1-pkYv
+  - cXn6DwMGX5ykMqgF
 tombstones:
   1g302Z0SfSZv2TpJ: 1768056831410
   Fx5HSmNxvcNWVKxr: 1768056840055
@@ -2025,4 +3110,67 @@ tombstones:
   1XN6pNJx9XR70nxN: 1768276442815
   0zvKGZ3k_DnsNmPl: 1768276481585
   RV_BQp5wf1HRJwt5: 1768276575030
+  1gLVBNG5LkPV8lJw: 1768317825737
+  1ylvZw5y6G5tz3Jj: 1768317859314
+  49GxVSJrY_2JcDMl: 1768322775211
+  V1G7f-B-q1Ql_mKn: 1768322785664
+  FTS0Wth-Mjq-Wtmg: 1768322786608
+  L5s5JjFQD7QNKzLv: 1768322788040
+  fvXy72gVj-_5ffB8: 1768322789450
+  zg7DCrSSfKd3kgLh: 1768322790674
+  R0gcltwxd1cQJR4B: 1768322791690
+  qL5NrgNLQ9GmgDSB: 1768322792914
+  snCshV_7mc8JJ5wF: 1768322889870
+  gs26G46JwNlMtfV_: 1768322891610
+  P9yrJCzXqkbWzGGX: 1768322893525
+  7LQxyt3_cRDMvnGq: 1768322902153
+  JGn5TS7kpQTQCs_4: 1768323250723
+  TKfpM_sHjgj70CZJ: 1768323253305
+  D_72hbR4KcS-mxmz: 1768323254314
+  KhvX350YgPyhGm1y: 1768323259047
+  dwx0zqDfNTKNWd78: 1768323259206
+  Lxh81pdnz7pnfQkF: 1768323285639
+  rvJq6-V87SMFZ-9p: 1768323963776
+  QjXwK0hBHYzXtbMd: 1768323988447
+  MjQMYGz4q-h6VxKQ: 1768325241870
+  z2gmjLjLY-fj8yqW: 1768325242357
+  lX83v51894Sdtmnf: 1768325319745
+  plKHqmpDl5m6ncrd: 1768325322877
+  Wsyj8L0B1n_hzmtY: 1768325324246
+  nfFSKbbPjJ1bPJm6: 1768325325674
+  0GsNx11sR8q5RgLx: 1768325327047
+  PJgXlkRtQ_PP15Nl: 1768325328363
+  NqvbctHtwLYTTWks: 1768325344096
+  xZtRP48S99lq62cf: 1768325350209
+  HmNMQnCc4YT9Tslg: 1768325356512
+  P0VKv0gQr9pYsJKS: 1768325680724
+  WfP139-VktxlN_Qw: 1768325681742
+  zwH4lcQNNQBF140P: 1768325682816
+  FbC9J4QL4BFRGTGM: 1768326191162
+  y_gB_2L_x46w2dPc: 1768326225990
+  9p3D-1B9DKn1p30T: 1768326246805
+  3kdYk8208JLr900m: 1768326827305
+  ytc16qwhkjbK70_N: 1768326829679
+  S1fpzqb9PjZybh9q: 1768327560332
+  2wxN_fYp9XrvpkFJ: 1768327830129
+  1kLM5tgg2X6gMQv6: 1768327908342
+  qkMmlwKpz6ySyYH_: 1768327939228
+  yL_Hsj7QYqNJhygH: 1768328031664
+  HC0lCSSwVJdsnr5l: 1768328035209
+  nn-nhvswm2Pj1ltW: 1768328294562
+  BvG4TMc4vqMdZ0c8: 1768328424752
+  cxBm6DDkH3lKYL87: 1768328437105
+  8XgC9SkycL8b-s2y: 1768328462972
+  Ps0cTK93nPVY-LMx: 1768328946530
+  dsgT7ghwCjJGm_jM: 1768329139955
+  PfSzKN79Qd_-FQSf: 1768329171165
+  Kv7V_bgrGq1P3Qtg: 1768329192813
+  nXNr8rlWg81yyylw: 1768329193545
+  pQQT-tPjqxdf1vjZ: 1768329222074
+  5BHL8Gj-gSVZzt1L: 1768329251474
+  NPrrf4ZkN4p3gS8D: 1768329252587
+  XK11ZPr7bYpCmht3: 1768329255349
+  vJ2LxPR_CH0sm0d_: 1768329267597
+  Czxg65_vnHMdlSVW: 1768329318077
+  whttl1MWgcyq9p7h: 1768330774719
 version: 0.1.0
