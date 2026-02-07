@@ -1,2892 +1,932 @@
 type: outline
 id: jh-20XBsjJqQ3M7R
 created: 1767981751307
-modified: 1768331455590
+modified: 1770497114999
 root:
-  type: outline_item
-  id: B__MY_NCxD5yDGZq
-  created: 1767981751307
-  modified: 1768276289764
   value: crowblocks demo outline
+  page: true
+  view_type: groups
+  color: '#555'
+  meta: B__MY_NCxD5yDGZq/1767981751307/294538457
   children:
-    - type: outline_item
-      id: KC8zY8tg58kjyHlP
-      created: 1768275076287
-      modified: 1768328120674
-      value: Welcome!
-      children:
-        - type: outline_item
-          id: 9f1jYZQ9mc8vlbCP
-          created: 1768275098954
-          modified: 1768328190008
-          value: 'As the name suggests, "outline" is for creating outlines'
-          children: []
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#bc5bd7'
-        - type: outline_item
-          id: KNWVJcTqCk4kKMmg
-          created: 1768275121811
-          modified: 1768328193567
-          value: Each outline item can be given attributes that affect its style or behavior
-          children: []
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#bc5bd7'
-        - type: outline_item
-          id: gnBNhT1J-4zw9kbc
-          created: 1768275164938
-          modified: 1768328197511
-          value: 'For example, items in BOLD navigate to a new page'
-          children: []
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#bc5bd7'
-        - type: outline_item
-          id: SsNf8ByvWlz54jJZ
-          created: 1768275263866
-          modified: 1768328200498
-          value: Right clicking on an item will show you all the properties
-          children: []
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#bc5bd7'
-        - type: outline_item
-          id: t9LhNJy40p_4DZlV
-          created: 1768275287927
-          modified: 1768328203620
-          value: You can also switch files via the toolbar above
-          children:
-            - type: outline_item
-              id: 2kKRk7D9hPwjg1nw
-              created: 1768275301060
-              modified: 1768328206871
-              value: (but you probably want to stay in the demo for now)
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#bc5bd7'
-            - type: outline_item
-              id: dsHhF5fmWbJ-XLRJ
-              created: 1768275309126
-              modified: 1768328209792
-              value: (you can always reset the demo content...also in the toolbar)
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#bc5bd7'
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#bc5bd7'
-      page: false
-      collapsed: false
-      view_type: unordered
+    - value: Welcome!
       color: '#bc5bd7'
-    - type: outline_item
-      id: LsYt2JMQ0WT76RzP
-      created: 1768167322561
-      modified: 1768275211157
-      value: Features
+      meta: KC8zY8tg58kjyHlP/1768275076287/53044387
       children:
-        - type: outline_item
-          id: FDW7Bp6s13hrhq6J
-          created: 1768152926342
-          modified: 1768328902924
-          value: Click here to see some of the outline features
+        - value: 'As the name suggests, "outline" is for creating outlines'
+          color: '#bc5bd7'
+          meta: 9f1jYZQ9mc8vlbCP/1768275098954/53091054
+        - value: Each outline item can be given attributes that affect its style or behavior
+          color: '#bc5bd7'
+          meta: KNWVJcTqCk4kKMmg/1768275121811/53071756
+        - value: 'For example, items in BOLD navigate to a new page'
+          color: '#bc5bd7'
+          meta: gnBNhT1J-4zw9kbc/1768275164938/53032573
+        - value: Right clicking on an item will show you all the properties
+          color: '#bc5bd7'
+          meta: SsNf8ByvWlz54jJZ/1768275263866/52936632
+        - value: You can also switch files via the toolbar above
+          color: '#bc5bd7'
+          meta: t9LhNJy40p_4DZlV/1768275287927/52915693
           children:
-            - type: outline_item
-              id: lhmZYkLszW34xvbC
-              created: 1768166066313
-              modified: 1768166175347
-              value: Unordered lists
+            - value: (but you probably want to stay in the demo for now)
+              color: '#bc5bd7'
+              meta: 2kKRk7D9hPwjg1nw/1768275301060/52905811
+            - value: (you can always reset the demo content...also in the toolbar)
+              color: '#bc5bd7'
+              meta: dsHhF5fmWbJ-XLRJ/1768275309126/52900666
+    - value: Features
+      color: '#1496d7'
+      meta: LsYt2JMQ0WT76RzP/1768167322561/107888596
+      children:
+        - value: Ctrl+click here to see some of the outline features
+          page: true
+          collapsed: true
+          view_type: groups
+          meta: FDW7Bp6s13hrhq6J/1768152926342/2344137810
+          children:
+            - value: Unordered lists
+              meta: lhmZYkLszW34xvbC/1768166066313/109034
               children:
-                - type: outline_item
-                  id: 0022h81-D_rZr2sf
-                  created: 1768166073393
-                  modified: 1768166079721
-                  value: Apples
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
+                - value: Apples
                   color: '#574f96'
-                - type: outline_item
-                  id: 3hhXyGhww6tQkhzn
-                  created: 1768166080000
-                  modified: 1768166082291
-                  value: Bananas
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
+                  meta: 0022h81-D_rZr2sf/1768166073393/6328
+                - value: Bananas
                   color: '#574f96'
-                - type: outline_item
-                  id: XhG1m_xKvcC6P4hs
-                  created: 1768166076708
-                  modified: 1768166086441
-                  value: Crocodiles
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
+                  meta: 3hhXyGhww6tQkhzn/1768166080000/2291
+                - value: Crocodiles
                   color: '#574f96'
-                - type: outline_item
-                  id: sypvsxX9lZXPv3bG
-                  created: 1768166087435
-                  modified: 1768166089043
-                  value: Donuts
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
+                  meta: XhG1m_xKvcC6P4hs/1768166076708/9733
+                - value: Donuts
                   color: '#574f96'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: 1jYJ_MqYjvKcGjlX
-              created: 1768165958202
-              modified: 1768166177907
-              value: Ordered lists
-              children:
-                - type: outline_item
-                  id: N7sFC5-bj2MzyK92
-                  created: 1768165960394
-                  modified: 1768165962750
-                  value: Item 1
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: bJYZK_tdrC9TlR5S
-                  created: 1768165962952
-                  modified: 1768165963980
-                  value: Item 2
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: hcs4YMbrXX3tR2VN
-                  created: 1768165964229
-                  modified: 1768165965138
-                  value: Item 3
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-                - type: outline_item
-                  id: S9m_89F3YRGWYFyT
-                  created: 1768165965500
-                  modified: 1768165966587
-                  value: Item 4
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-              page: false
-              collapsed: false
+                  meta: sypvsxX9lZXPv3bG/1768166087435/1608
+            - value: Ordered lists
               view_type: ordered
-              color: null
-            - type: outline_item
-              id: LN-yQcBQLzjfnNmr
-              created: 1768172661784
-              modified: 1768328264271
-              value: Outlines
+              meta: 1jYJ_MqYjvKcGjlX/1768165958202/219705
               children:
-                - type: outline_item
-                  id: qPh0skzF2F3wV_0p
-                  created: 1768172663880
-                  modified: 1768275232025
-                  value: Items can be nested
+                - value: Item 1
+                  color: '#574f96'
+                  meta: N7sFC5-bj2MzyK92/1768165960394/2356
+                - value: Item 2
+                  color: '#574f96'
+                  meta: bJYZK_tdrC9TlR5S/1768165962952/1028
+                - value: Item 3
+                  color: '#574f96'
+                  meta: hcs4YMbrXX3tR2VN/1768165964229/909
+                - value: Item 4
+                  color: '#574f96'
+                  meta: S9m_89F3YRGWYFyT/1768165965500/1087
+            - value: Outlines
+              meta: LN-yQcBQLzjfnNmr/1768172661784/155602487
+              children:
+                - value: Items can be nested
+                  meta: qPh0skzF2F3wV_0p/1768172663880/102568145
                   children:
-                    - type: outline_item
-                      id: 6H3Q7r7hnZ8x_-rN
-                      created: 1768172667944
-                      modified: 1768275239170
-                      value: So that you can organize the details
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: HRYky1qCrJk7plTW
-                      created: 1768172680776
-                      modified: 1768275242013
-                      value: Into relevant groups
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: mRDNrpkgyqTqqBDV
-                  created: 1768172686115
-                  modified: 1768186602535
-                  value: Items can then be collapsed
+                    - value: So that you can organize the details
+                      meta: 6H3Q7r7hnZ8x_-rN/1768172667944/102571226
+                    - value: Into relevant groups
+                      meta: HRYky1qCrJk7plTW/1768172680776/102561237
+                - value: Items can then be collapsed
+                  collapsed: true
+                  meta: mRDNrpkgyqTqqBDV/1768172686115/13916420
                   children:
-                    - type: outline_item
-                      id: FXf52wJvB8qqR4fB
-                      created: 1768172694672
-                      modified: 1768172709484
-                      value: To hide items you don't need in view
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: pFWqVd5JTRRMFh4H
-                      created: 1768186572763
-                      modified: 1768186600552
-                      value: And be can nested
-                      children:
-                        - type: outline_item
-                          id: _jyp4VB6cn5b-SC_
-                          created: 1768186580286
-                          modified: 1768186599302
-                          value: As deeply
-                          children:
-                            - type: outline_item
-                              id: w1j08K9-MMKBHS8P
-                              created: 1768186582499
-                              modified: 1768186596053
-                              value: As is needed
-                              children:
-                                - type: outline_item
-                                  id: PgSP6SmZyzj8ZcDl
-                                  created: 1768186587042
-                                  modified: 1768186592023
-                                  value: For what
-                                  children:
-                                    - type: outline_item
-                                      id: 6S8FFjv1ffvFcJj4
-                                      created: 1768186591868
-                                      modified: 1768186594370
-                                      value: You need
-                                      children: []
-                                      page: false
-                                      collapsed: false
-                                      view_type: unordered
-                                      color: null
-                                  page: false
-                                  collapsed: false
-                                  view_type: unordered
-                                  color: null
-                              page: false
-                              collapsed: true
-                              view_type: unordered
-                              color: null
-                          page: false
-                          collapsed: false
-                          view_type: unordered
-                          color: null
-                      page: false
+                    - value: To hide items you don't need in view
+                      meta: FXf52wJvB8qqR4fB/1768172694672/14812
+                    - value: And be can nested
                       collapsed: true
-                      view_type: unordered
-                      color: null
-                  page: false
+                      meta: pFWqVd5JTRRMFh4H/1768186572763/27789
+                      children:
+                        - value: As deeply
+                          meta: _jyp4VB6cn5b-SC_/1768186580286/19016
+                          children:
+                            - value: As is needed
+                              collapsed: true
+                              meta: w1j08K9-MMKBHS8P/1768186582499/13554
+                              children:
+                                - value: For what
+                                  meta: PgSP6SmZyzj8ZcDl/1768186587042/4981
+                                  children:
+                                    - value: You need
+                                      meta: 6S8FFjv1ffvFcJj4/1768186591868/2502
+                - value: Any item can be made the top-level / root item
                   collapsed: true
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: m8Z7mYmNkZlLhMrH
-                  created: 1768172712387
-                  modified: 1768172742990
-                  value: Any item can be made the top-level / root item
+                  meta: m8Z7mYmNkZlLhMrH/1768172712387/30603
                   children:
-                    - type: outline_item
-                      id: vg_76wQk-bgSyzSw
-                      created: 1768172729802
-                      modified: 1768172742082
-                      value: Click the magnifying glass icon to the left of the bullet
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: true
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: z10zdJtnZ_4140d4
-              created: 1768170427524
-              modified: 1768172596186
-              value: Todo lists
+                    - value: Click the magnifying glass icon to the left of the bullet
+                      meta: vg_76wQk-bgSyzSw/1768172729802/12280
+            - value: Todo lists
+              meta: z10zdJtnZ_4140d4/1768170427524/2168662
               children:
-                - type: outline_item
-                  id: PgJ5NtsDCM_W7LcW
-                  created: 1768170429289
-                  modified: 1768172570796
-                  value: A completed todo item
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
+                - value: A completed todo item
                   status: done
-                - type: outline_item
-                  id: YMRKQYsSS-z5RDBk
-                  created: 1768171437844
-                  modified: 1768276575030
-                  value: A not yet done todo item
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
+                  meta: PgJ5NtsDCM_W7LcW/1768170429289/2141507
+                - value: A not yet done todo item
                   status: todo
-                - type: outline_item
-                  id: qgCQHbsthydZYlxM
-                  created: 1768172579195
-                  modified: 1768330774719
-                  value: Another not done item
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
+                  meta: YMRKQYsSS-z5RDBk/1768171437844/105137186
+                - value: Another not done item
                   status: todo
-                - type: outline_item
-                  id: fBPDDxp4rJWQVYGJ
-                  created: 1768171433375
-                  modified: 1768264340782
-                  value: A work-in-progress todo item (right-click the icon to toggle this state)
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
+                  meta: qgCQHbsthydZYlxM/1768172579195/158195524
+                - value: A work-in-progress todo item (right-click the icon to toggle this state)
                   status: in_progress
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: LNLs_ffcsXHCnLNF
-              created: 1768165983915
-              modified: 1768328351002
-              value: Groups
+                  meta: fBPDDxp4rJWQVYGJ/1768171433375/2325647965
+            - value: Groups
+              meta: LNLs_ffcsXHCnLNF/1768165983915/162367087
               children:
-                - type: outline_item
-                  id: rqdFzdgVt3WCPX--
-                  created: 1768166096883
-                  modified: 1768328351002
-                  value: >-
+                - value: >-
                     This page is set to group all the top-level items.  Groupings can be set any any level of the
                     outline though.
-                  children:
-                    - type: outline_item
-                      id: PKvvhCxvxl8jL6pk
-                      created: 1768173712883
-                      modified: 1768174513215
-                      value: Groups do not need to be top-level
-                      children:
-                        - type: outline_item
-                          id: 9j4rgnM59YtcWHGz
-                          created: 1768173898505
-                          modified: 1768174195511
-                          value: Top-level groups are generally more bold
-                          children: []
-                          page: false
-                          collapsed: false
-                          view_type: unordered
-                          color: '#574f96'
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: 5-KtS9GNKP0KTD44
-                      created: 1768174055450
-                      modified: 1768328349651
-                      value: Sub-groups
-                      children:
-                        - type: outline_item
-                          id: vC-XcZNG88WyqDhf
-                          created: 1768174197239
-                          modified: 1768175084982
-                          value: Such groups are given a more subtle styling
-                          children: []
-                          page: false
-                          collapsed: false
-                          view_type: unordered
-                          color: '#574f96'
-                        - type: outline_item
-                          id: 7-fMBDYcYrJ4-g6Q
-                          created: 1768175082827
-                          modified: 1768175094976
-                          value: And adjusted spacing
-                          children: []
-                          page: false
-                          collapsed: false
-                          view_type: unordered
-                          color: '#574f96'
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: false
                   view_type: groups
                   color: '#574f96'
-                - type: outline_item
-                  id: qmjx4Gkp119ptwss
-                  created: 1768328349012
-                  modified: 1768328364849
-                  value: 'The grouping property applies to all children, but does not affect items at other levels.'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#574f96'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: 6VR91ZybfLBFVSSH
-              created: 1768166138437
-              modified: 1768166183424
-              value: Colors
-              children:
-                - type: outline_item
-                  id: rcRjvZxgjKsh4b-n
-                  created: 1768166140497
-                  modified: 1768166151675
-                  value: Red
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#ed0c0c'
-                - type: outline_item
-                  id: cnWLcCxLHG-Lnqkv
-                  created: 1768166142569
-                  modified: 1768166158017
-                  value: Green
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0c8336'
-                - type: outline_item
-                  id: g6ZhJVVQWS4js9ln
-                  created: 1768166143681
-                  modified: 1768166165444
-                  value: Blue
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#098aec'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: Jc1rkq8cgFRh3j07
-              created: 1768160276929
-              modified: 1768173125415
-              value: Rating levels
-              children:
-                - type: outline_item
-                  id: '-L21Ly06dtF15k1t'
-                  created: 1768155929677
-                  modified: 1768165494160
-                  value: 5 stars
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  rating: 5
-                - type: outline_item
-                  id: Tlcb3dg_YLXLw5Nq
-                  created: 1768156139117
-                  modified: 1768165501316
-                  value: 4 stars
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  rating: 4
-                - type: outline_item
-                  id: KP15k_SGvjrMSLzm
-                  created: 1768165470824
-                  modified: 1768165887503
-                  value: 3.5 stars
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  rating: 3.5
-                - type: outline_item
-                  id: xk52m56cZm17c0dR
-                  created: 1768156941073
-                  modified: 1768165495685
-                  value: 3 stars
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  rating: 3
-                - type: outline_item
-                  id: QlrQ-051mss-l0Xz
-                  created: 1768157462984
-                  modified: 1768165496796
-                  value: 2 stars
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  rating: 2
-                - type: outline_item
-                  id: PQ8x1szPNDTNrmRx
-                  created: 1768157464841
-                  modified: 1768165869800
-                  value: 1 star
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  rating: 1
-                - type: outline_item
-                  id: VkXW5cTrfhGhcjKm
-                  created: 1768165392672
-                  modified: 1768165841634
-                  value: 0 stars
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  rating: 0
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: 8LZypTNwyKCNQDb3
-              created: 1768152958390
-              modified: 1768173700484
-              value: Priority values
-              children:
-                - type: outline_item
-                  id: ZkmFP9hG4TW-dQPJ
-                  created: 1768152930913
-                  modified: 1768153012318
-                  value: Priority 0
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 0
-                - type: outline_item
-                  id: 85yFnpBP4v5LxX3K
-                  created: 1768152933070
-                  modified: 1768153016160
-                  value: Priority 1
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 1
-                - type: outline_item
-                  id: TBj5Cfx66mpJ0zfd
-                  created: 1768152934494
-                  modified: 1768153019655
-                  value: Priority 2
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 2
-                - type: outline_item
-                  id: 6xtz-tyPcXtfTDf3
-                  created: 1768152936324
-                  modified: 1768153024065
-                  value: Priority 3
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 3
-                - type: outline_item
-                  id: Z1R0Ksx7h7Q63LVs
-                  created: 1768152940082
-                  modified: 1768153027641
-                  value: Priority 4
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 4
-                - type: outline_item
-                  id: YDD4gJcnwG_bBXMw
-                  created: 1768152942407
-                  modified: 1768165944368
-                  value: Priority 5
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 5
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: V1n_r4QylGq5NG9_
-              created: 1768173124901
-              modified: 1768173567321
-              value: Dates
-              children:
-                - type: outline_item
-                  id: 7b4DXsLC6VMVgLpc
-                  created: 1768173151137
-                  modified: 1768173679429
-                  value: This item has a data associated with it
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  date: '2026-01-01'
-                - type: outline_item
-                  id: 3f963pwbR2rlPJVr
-                  created: 1768173552172
-                  modified: 1768173681736
-                  value: So does this one
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  date: '2026-01-11'
-                - type: outline_item
-                  id: '-SZK3fDGHY50yHhp'
-                  created: 1768173567321
-                  modified: 1768173684444
-                  value: Dates are in YYYY-MM-DD format
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  date: '2026-01-11'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: bPb-kyvcR3xmJy9R
-              created: 1768264416241
-              modified: 1768328946530
-              value: Weekly Tracker
-              children:
-                - type: outline_item
-                  id: 4pLFHJH6mDdVLn6x
-                  created: 1768264432756
-                  modified: 1768328751089
-                  value: Am I making progress?
+                  meta: rqdFzdgVt3WCPX--/1768166096883/162254119
                   children:
-                    - type: outline_item
-                      id: XX5p8TQ1T8gcNn82
-                      created: 1768328467836
-                      modified: 1768328697890
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
+                    - value: Groups do not need to be top-level
+                      meta: PKvvhCxvxl8jL6pk/1768173712883/800332
+                      children:
+                        - value: Top-level groups are generally more bold
+                          color: '#574f96'
+                          meta: 9j4rgnM59YtcWHGz/1768173898505/297006
+                    - value: Sub-groups
+                      meta: 5-KtS9GNKP0KTD44/1768174055450/154294201
+                      children:
+                        - value: Such groups are given a more subtle styling
+                          color: '#574f96'
+                          meta: vC-XcZNG88WyqDhf/1768174197239/887743
+                        - value: And adjusted spacing
+                          color: '#574f96'
+                          meta: 7-fMBDYcYrJ4-g6Q/1768175082827/12149
+                - value: 'The grouping property applies to all children, but does not affect items at other levels.'
+                  color: '#574f96'
+                  meta: qmjx4Gkp119ptwss/1768328349012/15837
+            - value: Colors
+              meta: 6VR91ZybfLBFVSSH/1768166138437/44987
+              children:
+                - value: Red
+                  color: '#ed0c0c'
+                  meta: rcRjvZxgjKsh4b-n/1768166140497/11178
+                - value: Green
+                  color: '#0c8336'
+                  meta: cnWLcCxLHG-Lnqkv/1768166142569/15448
+                - value: Blue
+                  color: '#098aec'
+                  meta: g6ZhJVVQWS4js9ln/1768166143681/21763
+            - value: Rating levels
+              meta: Jc1rkq8cgFRh3j07/1768160276929/2336838070
+              children:
+                - value: 5 stars
+                  rating: 5
+                  meta: '-L21Ly06dtF15k1t/1768155929677/9564483'
+                - value: 4 stars
+                  rating: 4
+                  meta: Tlcb3dg_YLXLw5Nq/1768156139117/9362199
+                - value: 3.5 stars
+                  rating: 3.5
+                  meta: KP15k_SGvjrMSLzm/1768165470824/2331621139
+                - value: 3 stars
+                  rating: 3
+                  meta: xk52m56cZm17c0dR/1768156941073/8554612
+                - value: 2 stars
+                  rating: 2
+                  meta: QlrQ-051mss-l0Xz/1768157462984/8033812
+                - value: 1 star
+                  rating: 1
+                  meta: PQ8x1szPNDTNrmRx/1768157464841/8404959
+            - value: Priority values
+              meta: 8LZypTNwyKCNQDb3/1768152958390/20742094
+              children:
+                - value: Priority 0
+                  priority: 0
+                  meta: ZkmFP9hG4TW-dQPJ/1768152930913/81405
+                - value: Priority 1
+                  priority: 1
+                  meta: 85yFnpBP4v5LxX3K/1768152933070/83090
+                - value: Priority 2
+                  priority: 2
+                  meta: TBj5Cfx66mpJ0zfd/1768152934494/85161
+                - value: Priority 3
+                  priority: 3
+                  meta: 6xtz-tyPcXtfTDf3/1768152936324/87741
+                - value: Priority 4
+                  priority: 4
+                  meta: Z1R0Ksx7h7Q63LVs/1768152940082/87559
+                - value: Priority 5
+                  priority: 5
+                  meta: YDD4gJcnwG_bBXMw/1768152942407/13001961
+            - value: Dates
+              meta: V1n_r4QylGq5NG9_/1768173124901/442420
+              children:
+                - value: This item has a data associated with it
+                  date: '2026-01-01'
+                  meta: 7b4DXsLC6VMVgLpc/1768173151137/528292
+                - value: So does this one
+                  date: '2026-01-11'
+                  meta: 3f963pwbR2rlPJVr/1768173552172/129564
+                - value: Dates are in YYYY-MM-DD format
+                  date: '2026-01-11'
+                  meta: '-SZK3fDGHY50yHhp/1768173567321/117123'
+            - value: Weekly Tracker
+              meta: bPb-kyvcR3xmJy9R/1768264416241/64530289
+              children:
+                - value: Am I making progress?
+                  collapsed: true
+                  view_type: tracker
+                  meta: 4pLFHJH6mDdVLn6x/1768264432756/64318333
+                  children:
+                    - value: .view-datestamp 2026-01-16
                       collapsed: true
                       view_type: tracker
-                      color: null
-                    - type: outline_item
-                      id: lW_4m7RG0XwSrb-y
-                      created: 1768328413052
-                      modified: 1768328413052
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: XX5p8TQ1T8gcNn82/1768328467836/230054
+                    - value: 'true'
                       date: '2026-01-16'
-                    - type: outline_item
-                      id: 39GMj32CY2HWmPqn
-                      created: 1768328408210
-                      modified: 1768328408210
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: lW_4m7RG0XwSrb-y/1768328413052/0
+                    - value: 'true'
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: gtHQHWkvJhMsWTB1
-                      created: 1768328407680
-                      modified: 1768328407680
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: 39GMj32CY2HWmPqn/1768328408210/0
+                    - value: 'true'
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: sXqTlbqTgyvQwmB1
-                      created: 1768328407297
-                      modified: 1768328407297
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: gtHQHWkvJhMsWTB1/1768328407680/0
+                    - value: 'true'
                       date: '2026-01-13'
-                    - type: outline_item
-                      id: gYxgrSWbncpwcwgl
-                      created: 1768328406930
-                      modified: 1768328406930
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: sXqTlbqTgyvQwmB1/1768328407297/0
+                    - value: 'true'
                       date: '2026-01-12'
-                  page: false
+                      meta: gYxgrSWbncpwcwgl/1768328406930/0
+                - value: Did I walk the dog?
                   collapsed: true
                   view_type: tracker
-                  color: null
-                - type: outline_item
-                  id: f--JCdRvQT2WHjKm
-                  created: 1768328414989
-                  modified: 1768328748589
-                  value: Did I walk the dog?
+                  meta: f--JCdRvQT2WHjKm/1768328414989/333600
                   children:
-                    - type: outline_item
-                      id: 1PFds_c1B4NmP62b
-                      created: 1768328712050
-                      modified: 1768328718096
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: sgkhHzG2rWhvjt1C
-                      created: 1768328426161
-                      modified: 1768328426161
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                    - value: .view-datestamp 2026-01-16
+                      meta: 1PFds_c1B4NmP62b/1768328712050/6046
+                    - value: 'true'
                       date: '2026-01-16'
-                    - type: outline_item
-                      id: scb9lw3gg9KQCcsw
-                      created: 1768328425270
-                      modified: 1768328425270
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: sgkhHzG2rWhvjt1C/1768328426161/0
+                    - value: 'true'
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: QDm9QjSgzW0w5YY4
-                      created: 1768328422345
-                      modified: 1768328422568
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: scb9lw3gg9KQCcsw/1768328425270/0
+                    - value: 'false'
                       date: '2026-01-13'
-                    - type: outline_item
-                      id: xfsdDkMc6m_KFF0V
-                      created: 1768328421581
-                      modified: 1768328421766
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: QDm9QjSgzW0w5YY4/1768328422345/223
+                    - value: 'false'
                       date: '2026-01-12'
-                  page: false
+                      meta: xfsdDkMc6m_KFF0V/1768328421581/185
+                - value: How many push-ups did I do?
                   collapsed: true
                   view_type: tracker
-                  color: null
-                - type: outline_item
-                  id: L253M9LvsrTQ_T8h
-                  created: 1768328727228
-                  modified: 1768328789191
-                  value: How many push-ups did I do?
+                  meta: L253M9LvsrTQ_T8h/1768328727228/61963
                   children:
-                    - type: outline_item
-                      id: zCPJ4MwyZHnV4Kbx
-                      created: 1768328744096
-                      modified: 1768328756002
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
+                    - value: .view-datestamp 2026-01-16
                       collapsed: true
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: '-5R-h715TWx2BPpW'
-                      created: 1768328733748
-                      modified: 1768328770022
-                      value: '.options 0, 5, 10, 20, 100, 5000'
-                      children: []
-                      page: false
+                      meta: zCPJ4MwyZHnV4Kbx/1768328744096/11906
+                    - value: '.options 0, 5, 10, 20, 100, 5000'
                       collapsed: true
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: VLk9-Zg16QychDcG
-                      created: 1768328786459
-                      modified: 1768328786459
-                      value: '5000'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: '-5R-h715TWx2BPpW/1768328733748/36274'
+                    - value: '5000'
                       date: '2026-01-16'
-                    - type: outline_item
-                      id: 4hjkJd17JRNL5QfG
-                      created: 1768328785040
-                      modified: 1768328785040
-                      value: '100'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: VLk9-Zg16QychDcG/1768328786459/0
+                    - value: '100'
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: nbxBs6xmZ7kC-cC5
-                      created: 1768328783454
-                      modified: 1768328783454
-                      value: '20'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: 4hjkJd17JRNL5QfG/1768328785040/0
+                    - value: '20'
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: _ggSY9DMWwZ72cV8
-                      created: 1768328776567
-                      modified: 1768328782036
-                      value: '5'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: nbxBs6xmZ7kC-cC5/1768328783454/0
+                    - value: '5'
                       date: '2026-01-13'
-                    - type: outline_item
-                      id: gh7znBTGHCzH326v
-                      created: 1768328778612
-                      modified: 1768328780774
-                      value: '0'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: _ggSY9DMWwZ72cV8/1768328776567/5469
+                    - value: '0'
                       date: '2026-01-12'
-                  page: false
+                      meta: gh7znBTGHCzH326v/1768328778612/2162
+                - value: 'For demonstration purposes, the above are locked to a fixed date!'
                   collapsed: true
-                  view_type: tracker
-                  color: null
-                - type: outline_item
-                  id: hTjkMkwBF495dd8q
-                  created: 1768328944332
-                  modified: 1768328959618
-                  value: 'For demonstration purposes, the above are locked to a fixed date!'
-                  children: []
-                  page: false
-                  collapsed: true
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: nXlB_cvdnCvRdylC
-              created: 1768253591854
-              modified: 1768265072665
-              value: Articles
+                  meta: hTjkMkwBF495dd8q/1768328944332/15286
+            - value: Articles
+              page: true
+              view_type: article
+              meta: nXlB_cvdnCvRdylC/1768253591854/11480811
               children:
-                - type: outline_item
-                  id: cx4kZNzYYwbfg_Kr
-                  created: 1768253600170
-                  modified: 1768262453069
-                  value: '## What are articles?'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: s3c-MhR5rwyhTh3w
-                  created: 1768262181262
-                  modified: 1768262269424
-                  value: >-
+                - value: '## What are articles?'
+                  meta: cx4kZNzYYwbfg_Kr/1768253600170/8852899
+                - value: >-
                     A sub-tree of the outline can be set to an the *article* type and that entire sub-tree  will be
                     rendered as a single document, which can be viewed independently or embedded in the general outline.
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: gWch_Kl95g6RGn3W
-                  created: 1768253702789
-                  modified: 1768262782994
-                  value: >-
+                  meta: s3c-MhR5rwyhTh3w/1768262181262/88162
+                - value: >-
                     Articles support a Markdown-like syntax as well as more elaborate "block" rendering (as seen in
                     other note taking applications).  
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: 5M7v3sz-n1hfdQkq
-                  created: 1768262743027
-                  modified: 1768262778059
-                  value: '@h4 Markdown text'
+                  meta: gWch_Kl95g6RGn3W/1768253702789/9080205
+                - value: '@h4 Markdown text'
+                  meta: 5M7v3sz-n1hfdQkq/1768262743027/35032
                   children:
-                    - type: outline_item
-                      id: XG3dDh6tgRZlljzW
-                      created: 1768262776818
-                      modified: 1768263783623
-                      value: >-
+                    - value: >-
                         The syntax allows for basic formatting like _italics_, *bold*,  `code`, as well as
                         [hyperlinks](https://github.com/crowblocks/community/discussions/new?category=outline-feedback)
                         to be rendered in articles. (Note it is "Markdown-like" as it is not conformant with or as
                         complete as standard Markdown.)
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: NjlbKY1QdmNZ5K-0
-                  created: 1768258792289
-                  modified: 1768262703743
-                  value: '#### Blocks'
+                      meta: XG3dDh6tgRZlljzW/1768262776818/1006805
+                - value: '#### Blocks'
+                  meta: NjlbKY1QdmNZ5K-0/1768258792289/1008883406
                   children:
-                    - type: outline_item
-                      id: bWMyxhqsgMpQvKGS
-                      created: 1768260432778
-                      modified: 1768262641717
-                      value: >-
+                    - value: >-
                         Blocks allow for more elaborate rendering defined by a single outline item or sub-tree of
                         items.  For example, equations can be written by prefixing the item with `@equation` to produce
                         something like the below:
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: jKQ8hfKL3RclmR_Z
-                      created: 1768258865770
-                      modified: 1768260501357
-                      value: '@equation x^2 + y^2 + z^2 = r^2'
+                      meta: bWMyxhqsgMpQvKGS/1768260432778/2208939
+                    - value: '@equation x^2 + y^2 + z^2 = r^2'
+                      meta: jKQ8hfKL3RclmR_Z/1768258865770/1635587
                       children:
-                        - type: outline_item
-                          id: 93gFLXdZGSGBcGwB
-                          created: 1768259848097
-                          modified: 1768260058380
-                          value: .caption the equation for a sphere
-                          children: []
-                          page: false
-                          collapsed: false
-                          view_type: unordered
-                          color: null
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: ljfWhY5clngh5slp
-                      created: 1768260500782
-                      modified: 1768262729888
-                      value: >-
+                        - value: .caption the equation for a sphere
+                          meta: 93gFLXdZGSGBcGwB/1768259848097/210283
+                    - value: >-
                         In this particular case, the item is `@equation x^2 + y^2 + z^2 = r^2` with an (optional) child
                         item of `.caption the equation for a sphere`.  In general, `@` is used to define a block and `.`
                         is used to define a property of a parent item.
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: W33WNy2Hbh1PPJQ3
-                  created: 1768256667378
-                  modified: 1768263270913
-                  value: '### Future features'
+                      meta: ljfWhY5clngh5slp/1768260500782/2229106
+                    - value: '@equation e^{i\pi} + 1 = 0'
+                      meta: sTg1QLV2J8Mq5sNF/1769267602329/50108
+                    - value: '@equation e^{ix} = \cos x + i \sin x'
+                      meta: C0rJdhl8n2vdqh8j/1769267675695/19969
+                - value: '### Future features'
+                  meta: W33WNy2Hbh1PPJQ3/1768256667378/6603535
                   children:
-                    - type: outline_item
-                      id: NB68x7f_0JsH77_G
-                      created: 1768258823093
-                      modified: 1768263269208
-                      value: >-
+                    - value: >-
                         **More block types**: the equation example above is a proof-of-concept for more general block
                         types that could be created.
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: YzyhdxZwz9mczwvG
-                      created: 1768258701856
-                      modified: 1768263090448
-                      value: >-
+                      meta: NB68x7f_0JsH77_G/1768258823093/4446115
+                    - value: >-
                         **Publishing**: since the app has access to GitHub, being able to automatically publish an
                         article to a GitHub Pages static site could be an interesting feature.
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-              page: true
-              collapsed: false
-              view_type: article
-              color: null
-            - type: outline_item
-              id: 5SxjVrLNGD9Q3D9t
-              created: 1768265342996
-              modified: 1768265364691
-              value: Table view
+                      meta: YzyhdxZwz9mczwvG/1768258701856/4388592
+            - value: Table view
+              meta: 5SxjVrLNGD9Q3D9t/1768265342996/21695
               children:
-                - type: outline_item
-                  id: FGtQKCsq8bD7FfRd
-                  created: 1768265364297
-                  modified: 1768265367788
-                  value: NOT YET IMPLEMENTED
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-            - type: outline_item
-              id: G4P88pbGHKrBXXWg
-              created: 1768265345863
-              modified: 1768265363443
-              value: Cards & images
+                - value: NOT YET IMPLEMENTED
+                  meta: FGtQKCsq8bD7FfRd/1768265364297/3491
+            - value: Cards & images
+              meta: G4P88pbGHKrBXXWg/1768265345863/17580
               children:
-                - type: outline_item
-                  id: gDKR0r5Cp3qHsyB-
-                  created: 1768265354042
-                  modified: 1768265358879
-                  value: NOT YET IMPLEMENTED
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
+                - value: NOT YET IMPLEMENTED
+                  meta: gDKR0r5Cp3qHsyB-/1768265354042/4837
+    - value: Examples (work-in-progress)
+      color: '#1496d7'
+      meta: PnXK2TvJd1kMDKdv/1768181381005/148174335
+      children:
+        - value: Reading list
           page: true
           collapsed: true
           view_type: groups
-          color: null
-      page: false
-      collapsed: false
-      view_type: unordered
-      color: '#1496d7'
-    - type: outline_item
-      id: PnXK2TvJd1kMDKdv
-      created: 1768181381005
-      modified: 1768329555340
-      value: Examples (work-in-progress)
-      children:
-        - type: outline_item
-          id: TfqhRl7FBQ1-pkYv
-          created: 1768275489366
-          modified: 1768275729173
-          value: Reading list
+          meta: TfqhRl7FBQ1-pkYv/1768275489366/239807
           children:
-            - type: outline_item
-              id: hHGmrVJ-7jmFR1-y
-              created: 1768275502541
-              modified: 1768275706056
-              value: Favorites of All Time
-              children:
-                - type: outline_item
-                  id: qNRpyhLbkZRQt10k
-                  created: 1768275547050
-                  modified: 1768275598236
-                  value: 'A Tale of Two Cities, Charles Dickens'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0d78ba'
-                  rating: 5
-                - type: outline_item
-                  id: RPZ14gGTp2jnqC67
-                  created: 1768275590154
-                  modified: 1768275613949
-                  value: 'East of Eden, John Steinbeck'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0d78ba'
-                  rating: 4.5
-                - type: outline_item
-                  id: XvH7jTwz9j6tp-D2
-                  created: 1768275616226
-                  modified: 1768275626615
-                  value: 'The Fellowship of the Ring, J.R.R. Tolkien'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0d78ba'
-                  rating: 5
-                - type: outline_item
-                  id: YmPWDSsXLCVV66zq
-                  created: 1768275628304
-                  modified: 1768275652425
-                  value: 'The Two Towers, J.R.R. Tolkien'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0d78ba'
-                  rating: 5
-                - type: outline_item
-                  id: '-sBSwKbyPYx3bdbD'
-                  created: 1768275643436
-                  modified: 1768275653538
-                  value: 'The Return of the Kind, J.R.R. Tolkien'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0d78ba'
-                  rating: 4.5
-                - type: outline_item
-                  id: '-cccvVPVTzrjjHZH'
-                  created: 1768275655705
-                  modified: 1768275664844
-                  value: 'The Once and Future King, E.B. White'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0d78ba'
-                  rating: 5
-                - type: outline_item
-                  id: J3j97CL-XsN_c3rw
-                  created: 1768275666502
-                  modified: 1768275675725
-                  value: 'Cat''s Eye, Margaret Atwood'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#0d78ba'
-                  rating: 5
-              page: false
-              collapsed: false
+            - value: Favorites of All Time
               view_type: ordered
               color: '#0d78ba'
-            - type: outline_item
-              id: 9YjPV8yMP0Rd7t33
-              created: 1768275517214
-              modified: 1768275718437
-              value: 2026 List
+              meta: hHGmrVJ-7jmFR1-y/1768275502541/203515
               children:
-                - type: outline_item
-                  id: q1nBXysm3GLR3lkF
-                  created: 1768275677417
-                  modified: 1768275692878
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: Gg2sdjlkZ67rpYFy
-                  created: 1768275693938
-                  modified: 1768275694248
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: f-G1JYcQzXkmfs9T
-                  created: 1768275694501
-                  modified: 1768275694698
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: skSgNY6-mHfjTbRr
-                  created: 1768275694853
-                  modified: 1768275695068
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: Xk44J4mgH1M_3JD-
-                  created: 1768275695199
-                  modified: 1768275695429
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: 8B52NB1VM6Ht1ln4
-                  created: 1768275695544
-                  modified: 1768275696051
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: z9cT22kwgjVRKndk
-                  created: 1768275714402
-                  modified: 1768275714564
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: T1T3NLdm-R7h5B1w
-                  created: 1768275715093
-                  modified: 1768275715277
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: KF26sCBDpj7XFHNW
-                  created: 1768275715496
-                  modified: 1768275715742
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: c10n5qFBmW4kQ4q3
-                  created: 1768275715888
-                  modified: 1768275716137
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: Ggzj1pwDZMZhVRr2
-                  created: 1768275716283
-                  modified: 1768275716556
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: MCyHPGSb5RCZj9zg
-                  created: 1768275716765
-                  modified: 1768275716947
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: rK9n-6VjmRgB_yFs
-                  created: 1768275717127
-                  modified: 1768275717352
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: ktfSPxnMfv4RHLfJ
-                  created: 1768275717557
-                  modified: 1768275717763
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: LqlV_dqKjSFR6GF6
-                  created: 1768275717948
-                  modified: 1768275718190
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: spGqJzThv1P5fdJr
-                  created: 1768275718437
-                  modified: 1768275718632
-                  value: 'Example title of book, Author Name'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
+                - value: 'A Tale of Two Cities, Charles Dickens'
+                  color: '#0d78ba'
+                  rating: 5
+                  meta: qNRpyhLbkZRQt10k/1768275547050/51186
+                - value: 'East of Eden, John Steinbeck'
+                  color: '#0d78ba'
+                  meta: RPZ14gGTp2jnqC67/1768275590154/23795
+                - value: 'The Fellowship of the Ring, J.R.R. Tolkien'
+                  color: '#0d78ba'
+                  rating: 5
+                  meta: XvH7jTwz9j6tp-D2/1768275616226/10389
+                - value: 'The Two Towers, J.R.R. Tolkien'
+                  color: '#0d78ba'
+                  rating: 5
+                  meta: YmPWDSsXLCVV66zq/1768275628304/24121
+                - value: 'The Return of the Kind, J.R.R. Tolkien'
+                  color: '#0d78ba'
+                  meta: '-sBSwKbyPYx3bdbD/1768275643436/10102'
+                - value: 'The Once and Future King, E.B. White'
+                  color: '#0d78ba'
+                  rating: 5
+                  meta: '-cccvVPVTzrjjHZH/1768275655705/9139'
+                - value: 'Cat''s Eye, Margaret Atwood'
+                  color: '#0d78ba'
+                  rating: 5
+                  meta: J3j97CL-XsN_c3rw/1768275666502/9223
+            - value: 2026 List
               view_type: ordered
-              color: null
+              meta: 9YjPV8yMP0Rd7t33/1768275517214/201223
+              children:
+                - value: 'Example title of book, Author Name'
+                  meta: q1nBXysm3GLR3lkF/1768275677417/15461
+                - value: 'Example title of book, Author Name'
+                  meta: Gg2sdjlkZ67rpYFy/1768275693938/310
+                - value: 'Example title of book, Author Name'
+                  meta: f-G1JYcQzXkmfs9T/1768275694501/197
+                - value: 'Example title of book, Author Name'
+                  meta: skSgNY6-mHfjTbRr/1768275694853/215
+                - value: 'Example title of book, Author Name'
+                  meta: Xk44J4mgH1M_3JD-/1768275695199/230
+                - value: 'Example title of book, Author Name'
+                  meta: 8B52NB1VM6Ht1ln4/1768275695544/507
+                - value: 'Example title of book, Author Name'
+                  meta: z9cT22kwgjVRKndk/1768275714402/162
+                - value: 'Example title of book, Author Name'
+                  meta: T1T3NLdm-R7h5B1w/1768275715093/184
+                - value: 'Example title of book, Author Name'
+                  meta: KF26sCBDpj7XFHNW/1768275715496/246
+                - value: 'Example title of book, Author Name'
+                  meta: c10n5qFBmW4kQ4q3/1768275715888/249
+                - value: 'Example title of book, Author Name'
+                  meta: Ggzj1pwDZMZhVRr2/1768275716283/273
+                - value: 'Example title of book, Author Name'
+                  meta: MCyHPGSb5RCZj9zg/1768275716765/182
+                - value: 'Example title of book, Author Name'
+                  meta: rK9n-6VjmRgB_yFs/1768275717127/225
+                - value: 'Example title of book, Author Name'
+                  meta: ktfSPxnMfv4RHLfJ/1768275717557/206
+                - value: 'Example title of book, Author Name'
+                  meta: LqlV_dqKjSFR6GF6/1768275717948/242
+                - value: 'Example title of book, Author Name'
+                  meta: spGqJzThv1P5fdJr/1768275718437/195
+        - value: Habit tracker
           page: true
           collapsed: true
           view_type: groups
-          color: null
-        - type: outline_item
-          id: cXn6DwMGX5ykMqgF
-          created: 1768186800490
-          modified: 1768329059664
-          value: Habit tracker
+          meta: cXn6DwMGX5ykMqgF/1768186800490/142259174
           children:
-            - type: outline_item
-              id: X70LlmM14YKblXCs
-              created: 1768327073511
-              modified: 1768329151314
-              value: Health
+            - value: Health
+              color: '#c5307f'
+              meta: X70LlmM14YKblXCs/1768327073511/2077803
               children:
-                - type: outline_item
-                  id: Vp2DmSHcFSzXDNTg
-                  created: 1768321589544
-                  modified: 1768329132597
-                  value: Mood tracker
+                - value: Mood tracker
+                  collapsed: true
+                  view_type: tracker
+                  color: '#c5307f'
+                  meta: Vp2DmSHcFSzXDNTg/1768321589544/7543053
                   children:
-                    - type: outline_item
-                      id: KRFCFZ2_X1N8fSzY
-                      created: 1768329073755
-                      modified: 1768329092638
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: QTpHWpV779DSz9G3
-                      created: 1768323973624
-                      modified: 1768325670823
-                      value: '.options good, meh, bad'
-                      children: []
-                      page: false
+                    - value: .view-datestamp 2026-01-16
+                      meta: KRFCFZ2_X1N8fSzY/1768329073755/18883
+                    - value: '.options good, meh, bad'
                       collapsed: true
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: ZLcd81RxbkQ7ZlG3
-                      created: 1768324733922
-                      modified: 1768325676637
-                      value: .neutral meh
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: r3slYfyNHhlQGzK1
-                      created: 1768324724181
-                      modified: 1768325674835
-                      value: .negative bad
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: YRcfFFj6T2V-mMF8
-                      created: 1768329132597
-                      modified: 1768329132597
-                      value: good
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: QTpHWpV779DSz9G3/1768323973624/1697199
+                    - value: .neutral meh
+                      meta: ZLcd81RxbkQ7ZlG3/1768324733922/942715
+                    - value: .negative bad
+                      meta: r3slYfyNHhlQGzK1/1768324724181/950654
+                    - value: good
                       date: '2026-01-16'
-                    - type: outline_item
-                      id: DDDB-rPCqnmmZ1LX
-                      created: 1768329124097
-                      modified: 1768329124097
-                      value: good
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: YRcfFFj6T2V-mMF8/1768329132597/0
+                    - value: good
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: SmsMrL1yn5XYDXXC
-                      created: 1768329121640
-                      modified: 1768329129823
-                      value: bad
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: DDDB-rPCqnmmZ1LX/1768329124097/0
+                    - value: bad
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: N1xkQ-m3hknZTN36
-                      created: 1768325685429
-                      modified: 1768325685429
-                      value: good
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: SmsMrL1yn5XYDXXC/1768329121640/8183
+                    - value: good
                       date: '2026-01-13'
-                    - type: outline_item
-                      id: JdRcmtZXnQDwVyG6
-                      created: 1768325687326
-                      modified: 1768327760825
-                      value: meh
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: N1xkQ-m3hknZTN36/1768325685429/0
+                    - value: meh
                       date: '2026-01-12'
-                  page: false
+                      meta: JdRcmtZXnQDwVyG6/1768325687326/2073499
+                - value: Healthy meals
                   collapsed: true
                   view_type: tracker
                   color: '#c5307f'
-                - type: outline_item
-                  id: _mzcdkLCkWdjD3G2
-                  created: 1768327514346
-                  modified: 1768329178694
-                  value: Healthy meals
+                  meta: _mzcdkLCkWdjD3G2/1768327514346/1664348
                   children:
-                    - type: outline_item
-                      id: LxDRbFN1ZKnmHHm8
-                      created: 1768329099907
-                      modified: 1768329113635
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: B5r24ZM65DP5Kxwf
-                      created: 1768329164976
-                      modified: 1768329164976
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                    - value: .view-datestamp 2026-01-16
+                      meta: LxDRbFN1ZKnmHHm8/1768329099907/13728
+                    - value: 'true'
                       date: '2026-01-16'
-                    - type: outline_item
-                      id: 3yr9LsNVdlh2c3RB
-                      created: 1768329178694
-                      modified: 1768329180244
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: B5r24ZM65DP5Kxwf/1768329164976/0
+                    - value: 'false'
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: pK6lvZylZ3lknVpT
-                      created: 1768329162386
-                      modified: 1768329162386
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: 3yr9LsNVdlh2c3RB/1768329178694/1550
+                    - value: 'true'
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: gsCD-rKWW-0mGwLq
-                      created: 1768327526376
-                      modified: 1768327526376
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: pK6lvZylZ3lknVpT/1768329162386/0
+                    - value: 'true'
                       date: '2026-01-13'
-                  page: false
+                      meta: gsCD-rKWW-0mGwLq/1768327526376/0
+                - value: '10,000 steps'
                   collapsed: true
                   view_type: tracker
                   color: '#c5307f'
-                - type: outline_item
-                  id: DRNTC321rqBx8CG6
-                  created: 1768327774860
-                  modified: 1768329167938
-                  value: '10,000 steps'
+                  meta: DRNTC321rqBx8CG6/1768327774860/1393078
                   children:
-                    - type: outline_item
-                      id: '-Zm-Ht-2s-9M9PY2'
-                      created: 1768329167938
-                      modified: 1768329167938
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                    - value: 'true'
                       date: '2026-01-16'
-                    - type: outline_item
-                      id: bZQmlQBdrSlg899H
-                      created: 1768329136699
-                      modified: 1768329136699
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: '-Zm-Ht-2s-9M9PY2/1768329167938/0'
+                    - value: 'true'
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: wjgZnrmZL851BJVV
-                      created: 1768329135714
-                      modified: 1768329138888
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: bZQmlQBdrSlg899H/1768329136699/0
+                    - value: 'false'
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: glr8x7P8ls-xrK41
-                      created: 1768329140963
-                      modified: 1768329140963
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: wjgZnrmZL851BJVV/1768329135714/3174
+                    - value: 'true'
                       date: '2026-01-13'
-                    - type: outline_item
-                      id: 0TD95l0cZhn3X1r8
-                      created: 1768327779764
-                      modified: 1768327779930
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: glr8x7P8ls-xrK41/1768329140963/0
+                    - value: 'false'
                       date: '2026-01-12'
-                    - type: outline_item
-                      id: kt_f0z5VknhYc0R-
-                      created: 1768329144880
-                      modified: 1768329146597
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
+                      meta: 0TD95l0cZhn3X1r8/1768327779764/166
+                    - value: .view-datestamp 2026-01-16
                       collapsed: true
                       view_type: tracker
                       color: '#c5307f'
-                  page: false
+                      meta: kt_f0z5VknhYc0R-/1768329144880/1717
+                - value: Good sleep
                   collapsed: true
                   view_type: tracker
                   color: '#c5307f'
-                - type: outline_item
-                  id: p_MfjNMMm4nXhFxj
-                  created: 1768327547795
-                  modified: 1768329174035
-                  value: Good sleep
+                  meta: p_MfjNMMm4nXhFxj/1768327547795/1626240
                   children:
-                    - type: outline_item
-                      id: gLC4FsWHXm7RL-kZ
-                      created: 1768329174034
-                      modified: 1768329174034
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                    - value: 'true'
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: wrP-1tzQ7Yx18472
-                      created: 1768329173167
-                      modified: 1768329173289
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: gLC4FsWHXm7RL-kZ/1768329174034/0
+                    - value: 'false'
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: HBqCQGBJ3cdDfPZb
-                      created: 1768327552261
-                      modified: 1768327552261
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: wrP-1tzQ7Yx18472/1768329173167/122
+                    - value: 'true'
                       date: '2026-01-13'
-                    - type: outline_item
-                      id: ghMgL2pD8fq_6hLz
-                      created: 1768327556407
-                      modified: 1768327556686
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: HBqCQGBJ3cdDfPZb/1768327552261/0
+                    - value: 'false'
                       date: '2026-01-12'
-                    - type: outline_item
-                      id: 1_z4ChSY55k76HzZ
-                      created: 1768329150872
-                      modified: 1768329156965
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
+                      meta: ghMgL2pD8fq_6hLz/1768327556407/279
+                    - value: .view-datestamp 2026-01-16
                       collapsed: true
-                      view_type: unordered
                       color: '#c5307f'
-                  page: false
-                  collapsed: true
-                  view_type: tracker
-                  color: '#c5307f'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#c5307f'
-            - type: outline_item
-              id: MNGwZRZq7LJQ7-4D
-              created: 1768327035664
-              modified: 1768329207187
-              value: Exercise
-              children:
-                - type: outline_item
-                  id: t1zJp92xWYMBzjB-
-                  created: 1768275733263
-                  modified: 1768329223813
-                  value: Gym
-                  children:
-                    - type: outline_item
-                      id: Hr8GXdtpGNG5YL6_
-                      created: 1768329223813
-                      modified: 1768329223813
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-16'
-                    - type: outline_item
-                      id: KmP5fHL52Lx_8-nK
-                      created: 1768329223051
-                      modified: 1768329241822
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-14'
-                    - type: outline_item
-                      id: zKypVVn7RGcLwr_l
-                      created: 1768320747639
-                      modified: 1768322887301
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-12'
-                    - type: outline_item
-                      id: scFp-hYwVF11_dJl
-                      created: 1768329188175
-                      modified: 1768329199507
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: true
-                      view_type: unordered
-                      color: '#1fc150'
-                  page: false
-                  collapsed: true
-                  view_type: tracker
-                  color: '#1fc150'
-                - type: outline_item
-                  id: 8HgfrxcWf5v4ms9N
-                  created: 1768321540760
-                  modified: 1768329229827
-                  value: Push-ups
-                  children:
-                    - type: outline_item
-                      id: 9yJygx5F-35s2kFk
-                      created: 1768321543015
-                      modified: 1768323292662
-                      value: '.options 0,5,10,20,25'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: 50WnRR7thb46w0Fw
-                      created: 1768329229827
-                      modified: 1768329229827
-                      value: '10'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-16'
-                    - type: outline_item
-                      id: '-bnXPb5qgkddlyk4'
-                      created: 1768329228486
-                      modified: 1768329228486
-                      value: '0'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-15'
-                    - type: outline_item
-                      id: H-pQTbDk0GmtKjBq
-                      created: 1768329227299
-                      modified: 1768329227299
-                      value: '10'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-14'
-                    - type: outline_item
-                      id: XV5lpjWCqQxkgb5G
-                      created: 1768321877444
-                      modified: 1768321883131
-                      value: '5'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-13'
-                    - type: outline_item
-                      id: 9QpzdMG2ZTbwBDPT
-                      created: 1768323295523
-                      modified: 1768327944415
-                      value: '20'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-12'
-                    - type: outline_item
-                      id: xQpmkPqnPmJ3dhrb
-                      created: 1768329200120
-                      modified: 1768329200511
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: '#1fc150'
-                  page: false
-                  collapsed: true
-                  view_type: tracker
-                  color: '#1fc150'
-                - type: outline_item
-                  id: VfbV84nTnvnQcFZ3
-                  created: 1768327868435
-                  modified: 1768329236458
-                  value: Run
-                  children:
-                    - type: outline_item
-                      id: D6zVHWDz1yY-jCjc
-                      created: 1768329233964
-                      modified: 1768329233964
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-16'
-                    - type: outline_item
-                      id: cWfllNj9CsS5NSSy
-                      created: 1768329236458
-                      modified: 1768329236458
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-15'
-                    - type: outline_item
-                      id: M_yCkG-5l2dJNyYy
-                      created: 1768329232249
-                      modified: 1768329235549
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-14'
-                    - type: outline_item
-                      id: 5DybZwJnKcQyHhgt
-                      created: 1768328036119
-                      modified: 1768328036119
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-13'
-                    - type: outline_item
-                      id: WrNjplT7wnBjsNWD
-                      created: 1768329200830
-                      modified: 1768329201045
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: '#1fc150'
-                  page: false
-                  collapsed: true
-                  view_type: tracker
-                  color: '#1fc150'
-              page: false
-              collapsed: false
-              view_type: unordered
+                      meta: 1_z4ChSY55k76HzZ/1768329150872/6093
+            - value: Exercise
               color: '#1fc150'
-            - type: outline_item
-              id: kmGMMX3cJMwfzBZK
-              created: 1768327500398
-              modified: 1768329310933
-              value: Projects
+              meta: MNGwZRZq7LJQ7-4D/1768327035664/2171523
               children:
-                - type: outline_item
-                  id: fSt4QlcknW_Zxp7l
-                  created: 1768327580569
-                  modified: 1768329306275
-                  value: Bathroom remodel
-                  children:
-                    - type: outline_item
-                      id: _mtgfKD_NzdVVKB_
-                      created: 1768327600983
-                      modified: 1768327600983
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-13'
-                    - type: outline_item
-                      id: wf_lKwHxNyKMpmST
-                      created: 1768329280796
-                      modified: 1768329295868
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: true
-                      view_type: unordered
-                      color: null
-                  page: false
+                - value: Gym
                   collapsed: true
                   view_type: tracker
-                  color: '#698bce'
-                - type: outline_item
-                  id: HxfXvxqmR41WFC0S
-                  created: 1768327811274
-                  modified: 1768329340870
-                  value: TPS Report template
+                  color: '#1fc150'
+                  meta: t1zJp92xWYMBzjB-/1768275733263/53490550
                   children:
-                    - type: outline_item
-                      id: G738N-MKCNMPMwWl
-                      created: 1768329253362
-                      modified: 1768329253362
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-15'
-                    - type: outline_item
-                      id: ScJSWCtwYyb0VVgr
-                      created: 1768327828170
-                      modified: 1768327828170
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-12'
-                    - type: outline_item
-                      id: ZWLNbB1h9q7-S5M8
-                      created: 1768329296926
-                      modified: 1768329297355
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: true
-                  view_type: tracker
-                  color: '#698bce'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#698bce'
-            - type: outline_item
-              id: mTmw_mvDf_XqYM75
-              created: 1768327507677
-              modified: 1768329318077
-              value: Routines
-              children:
-                - type: outline_item
-                  id: F65vw_c0Dl2Lg-N7
-                  created: 1768327710863
-                  modified: 1768329336189
-                  value: Read for 20+ minutes before bed
-                  children:
-                    - type: outline_item
-                      id: HrjgQVvV4kbVBTvf
-                      created: 1768329265834
-                      modified: 1768329265834
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-15'
-                    - type: outline_item
-                      id: z3zll9ZYdF8PPmQ8
-                      created: 1768329259526
-                      modified: 1768329259739
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-14'
-                    - type: outline_item
-                      id: rWJRlGYjmZb8KNRM
-                      created: 1768327741463
-                      modified: 1768327741463
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-13'
-                    - type: outline_item
-                      id: y565GXk5b-jfBngR
-                      created: 1768329297642
-                      modified: 1768329297856
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: true
-                  view_type: tracker
-                  color: '#f5982e'
-                - type: outline_item
-                  id: dkJM92fG38PMCL2p
-                  created: 1768327770509
-                  modified: 1768329333624
-                  value: Bullet journal morning entry
-                  children:
-                    - type: outline_item
-                      id: sDmd8TcXNjYLTThl
-                      created: 1768329269680
-                      modified: 1768329269680
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                    - value: 'true'
                       date: '2026-01-16'
-                    - type: outline_item
-                      id: FwFCHrX8lTFXmjCq
-                      created: 1768329273557
-                      modified: 1768329273557
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-15'
-                    - type: outline_item
-                      id: YbXcd8n-gFLkllNB
-                      created: 1768329260710
-                      modified: 1768329260883
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: Hr8GXdtpGNG5YL6_/1768329223813/0
+                    - value: 'false'
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: 1NY_t79h7s1NbMzJ
-                      created: 1768327860070
-                      modified: 1768327860070
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                      date: '2026-01-13'
-                    - type: outline_item
-                      id: z629Df8N6CX4hNyb
-                      created: 1768327859097
-                      modified: 1768327859097
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: KmP5fHL52Lx_8-nK/1768329223051/18771
+                    - value: 'true'
                       date: '2026-01-12'
-                    - type: outline_item
-                      id: b3st0P2fpZn0s4pJ
-                      created: 1768329298225
-                      modified: 1768329298424
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
+                      meta: zKypVVn7RGcLwr_l/1768320747639/2139662
+                    - value: .view-datestamp 2026-01-16
+                      collapsed: true
+                      color: '#1fc150'
+                      meta: scFp-hYwVF11_dJl/1768329188175/11332
+                - value: Push-ups
                   collapsed: true
                   view_type: tracker
-                  color: '#f5982e'
-                - type: outline_item
-                  id: JLMpVzyb0w6w21Q-
-                  created: 1768327848277
-                  modified: 1768329332287
-                  value: Bullet journal evening entry
+                  color: '#1fc150'
+                  meta: 8HgfrxcWf5v4ms9N/1768321540760/7689067
                   children:
-                    - type: outline_item
-                      id: SMqTytpqgLjwMVQj
-                      created: 1768329273923
-                      modified: 1768329274107
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                    - value: '.options 0,5,10,20,25'
+                      meta: 9yJygx5F-35s2kFk/1768321543015/1749647
+                    - value: '10'
+                      date: '2026-01-16'
+                      meta: 50WnRR7thb46w0Fw/1768329229827/0
+                    - value: '0'
                       date: '2026-01-15'
-                    - type: outline_item
-                      id: 41xn9CwyFrhl_nCc
-                      created: 1768329262653
-                      modified: 1768329262848
-                      value: 'false'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: '-bnXPb5qgkddlyk4/1768329228486/0'
+                    - value: '10'
                       date: '2026-01-14'
-                    - type: outline_item
-                      id: T44nm4Pf9ClVvC_p
-                      created: 1768327860522
-                      modified: 1768327860522
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: H-pQTbDk0GmtKjBq/1768329227299/0
+                    - value: '5'
                       date: '2026-01-13'
-                    - type: outline_item
-                      id: rfL-nHGH42QCDdWq
-                      created: 1768327859516
-                      modified: 1768327859516
-                      value: 'true'
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
+                      meta: XV5lpjWCqQxkgb5G/1768321877444/5687
+                    - value: '20'
                       date: '2026-01-12'
-                    - type: outline_item
-                      id: DsSpKF-C-bsLSGMn
-                      created: 1768329299395
-                      modified: 1768329299638
-                      value: .view-datestamp 2026-01-16
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
+                      meta: 9QpzdMG2ZTbwBDPT/1768323295523/4648892
+                    - value: .view-datestamp 2026-01-16
+                      color: '#1fc150'
+                      meta: xQpmkPqnPmJ3dhrb/1768329200120/391
+                - value: Run
+                  collapsed: true
+                  view_type: tracker
+                  color: '#1fc150'
+                  meta: VfbV84nTnvnQcFZ3/1768327868435/1368023
+                  children:
+                    - value: 'true'
+                      date: '2026-01-16'
+                      meta: D6zVHWDz1yY-jCjc/1768329233964/0
+                    - value: 'true'
+                      date: '2026-01-15'
+                      meta: cWfllNj9CsS5NSSy/1768329236458/0
+                    - value: 'false'
+                      date: '2026-01-14'
+                      meta: M_yCkG-5l2dJNyYy/1768329232249/3300
+                    - value: 'true'
+                      date: '2026-01-13'
+                      meta: 5DybZwJnKcQyHhgt/1768328036119/0
+                    - value: .view-datestamp 2026-01-16
+                      color: '#1fc150'
+                      meta: WrNjplT7wnBjsNWD/1768329200830/215
+            - value: Projects
+              color: '#698bce'
+              meta: kmGMMX3cJMwfzBZK/1768327500398/1810535
+              children:
+                - value: Bathroom remodel
+                  collapsed: true
+                  view_type: tracker
+                  color: '#698bce'
+                  meta: fSt4QlcknW_Zxp7l/1768327580569/1725706
+                  children:
+                    - value: 'true'
+                      date: '2026-01-13'
+                      meta: _mtgfKD_NzdVVKB_/1768327600983/0
+                    - value: .view-datestamp 2026-01-16
+                      collapsed: true
+                      meta: wf_lKwHxNyKMpmST/1768329280796/15072
+                - value: TPS Report template
+                  collapsed: true
+                  view_type: tracker
+                  color: '#698bce'
+                  meta: HxfXvxqmR41WFC0S/1768327811274/1529596
+                  children:
+                    - value: 'true'
+                      date: '2026-01-15'
+                      meta: G738N-MKCNMPMwWl/1768329253362/0
+                    - value: 'true'
+                      date: '2026-01-12'
+                      meta: ScJSWCtwYyb0VVgr/1768327828170/0
+                    - value: .view-datestamp 2026-01-16
+                      meta: ZWLNbB1h9q7-S5M8/1768329296926/429
+            - value: Routines
+              color: '#f5982e'
+              meta: mTmw_mvDf_XqYM75/1768327507677/1810400
+              children:
+                - value: Read for 20+ minutes before bed
                   collapsed: true
                   view_type: tracker
                   color: '#f5982e'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#f5982e'
-            - type: outline_item
-              id: R_YKVMgFpj34xY2Y
-              created: 1768329059664
-              modified: 1768329059664
-              value: ''
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
+                  meta: F65vw_c0Dl2Lg-N7/1768327710863/1625326
+                  children:
+                    - value: 'true'
+                      date: '2026-01-15'
+                      meta: HrjgQVvV4kbVBTvf/1768329265834/0
+                    - value: 'false'
+                      date: '2026-01-14'
+                      meta: z3zll9ZYdF8PPmQ8/1768329259526/213
+                    - value: 'true'
+                      date: '2026-01-13'
+                      meta: rWJRlGYjmZb8KNRM/1768327741463/0
+                    - value: .view-datestamp 2026-01-16
+                      meta: y565GXk5b-jfBngR/1768329297642/214
+                - value: Bullet journal morning entry
+                  collapsed: true
+                  view_type: tracker
+                  color: '#f5982e'
+                  meta: dkJM92fG38PMCL2p/1768327770509/1563115
+                  children:
+                    - value: 'true'
+                      date: '2026-01-16'
+                      meta: sDmd8TcXNjYLTThl/1768329269680/0
+                    - value: 'true'
+                      date: '2026-01-15'
+                      meta: FwFCHrX8lTFXmjCq/1768329273557/0
+                    - value: 'false'
+                      date: '2026-01-14'
+                      meta: YbXcd8n-gFLkllNB/1768329260710/173
+                    - value: 'true'
+                      date: '2026-01-13'
+                      meta: 1NY_t79h7s1NbMzJ/1768327860070/0
+                    - value: 'true'
+                      date: '2026-01-12'
+                      meta: z629Df8N6CX4hNyb/1768327859097/0
+                    - value: .view-datestamp 2026-01-16
+                      meta: b3st0P2fpZn0s4pJ/1768329298225/199
+                - value: Bullet journal evening entry
+                  collapsed: true
+                  view_type: tracker
+                  color: '#f5982e'
+                  meta: JLMpVzyb0w6w21Q-/1768327848277/1484010
+                  children:
+                    - value: 'false'
+                      date: '2026-01-15'
+                      meta: SMqTytpqgLjwMVQj/1768329273923/184
+                    - value: 'false'
+                      date: '2026-01-14'
+                      meta: 41xn9CwyFrhl_nCc/1768329262653/195
+                    - value: 'true'
+                      date: '2026-01-13'
+                      meta: T44nm4Pf9ClVvC_p/1768327860522/0
+                    - value: 'true'
+                      date: '2026-01-12'
+                      meta: rfL-nHGH42QCDdWq/1768327859516/0
+                    - value: .view-datestamp 2026-01-16
+                      meta: DsSpKF-C-bsLSGMn/1768329299395/243
+            - value: ''
               color: '#ffffff'
-            - type: outline_item
-              id: 2p_PlS5xspKMrWml
-              created: 1768328983124
-              modified: 1768329052743
-              value: Notes on the above!
+              meta: R_YKVMgFpj34xY2Y/1768329059664/0
+            - value: Notes on the above!
+              color: '#ffffff'
+              meta: 2p_PlS5xspKMrWml/1768328983124/69619
               children:
-                - type: outline_item
-                  id: Tz9ZWV0TCKym2q3t
-                  created: 1768328987470
-                  modified: 1768329065980
-                  value: 'For demonstration purposes, the above are locked to a fixed date!'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
+                - value: 'For demonstration purposes, the above are locked to a fixed date!'
                   color: '#ffffff'
-                - type: outline_item
-                  id: '-mQ-NyG3ML66sZq6'
-                  created: 1768328998316
-                  modified: 1768329041962
-                  value: 'Normally, the tracker always shows the current week and highlights the current day'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
+                  meta: Tz9ZWV0TCKym2q3t/1768328987470/78510
+                - value: 'Normally, the tracker always shows the current week and highlights the current day'
                   color: '#ffffff'
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#ffffff'
+                  meta: '-mQ-NyG3ML66sZq6/1768328998316/43646'
+        - value: New Year's Resolutions
           page: true
           collapsed: true
           view_type: groups
-          color: null
-        - type: outline_item
-          id: sWWxfPyjbDsTG1vz
-          created: 1768078580703
-          modified: 1768275760073
-          value: New Year's Resolutions
+          meta: sWWxfPyjbDsTG1vz/1768078580703/197179370
           children:
-            - type: outline_item
-              id: Ws4Fk7hyVLGK94pk
-              created: 1768275759656
-              modified: 1768276034203
-              value: ''
-              children:
-                - type: outline_item
-                  id: 5Zjs4LpkjNlFMxVC
-                  created: 1768275775866
-                  modified: 1768276118359
-                  value: >-
-                    This year's resolutions should focus on health, happiness, and more learning.  Also don't forget
-                    about family time and socialization.
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
+            - value: ''
               view_type: article
               color: '#ffffff'
-            - type: outline_item
-              id: 58TwYyxKtlszX_V7
-              created: 1768148479335
-              modified: 1768329719352
-              value: Confident
+              meta: Ws4Fk7hyVLGK94pk/1768275759656/274547
               children:
-                - type: outline_item
-                  id: gnqVG6bpJYyVx8Hg
-                  created: 1768148489659
-                  modified: 1768181826235
-                  value: Lose 10lbs
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 2
-                - type: outline_item
-                  id: F64qVwbfSk7s4gj9
-                  created: 1768148490986
-                  modified: 1768275390442
-                  value: Go to the gym 2x a week
-                  children:
-                    - type: outline_item
-                      id: 9lXH8rwyPmTBmzBN
-                      created: 1768151266128
-                      modified: 1768151267555
-                      value: Sub item
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                    - type: outline_item
-                      id: lj3LcWqJ559CJ47b
-                      created: 1768151267803
-                      modified: 1768151268751
-                      value: Sub itme
-                      children: []
-                      page: false
-                      collapsed: false
-                      view_type: unordered
-                      color: null
-                  page: false
-                  collapsed: true
-                  view_type: unordered
-                  color: null
-                  priority: 2
-                - type: outline_item
-                  id: TZDPQn2RcXq5Tcrm
-                  created: 1768329575404
-                  modified: 1768329715162
-                  value: Walk Fido every day
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 2
-                - type: outline_item
-                  id: CDJ4P4mj3xRRvfwh
-                  created: 1768181834224
-                  modified: 1768275395964
-                  value: Read 24 books this year
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 3
-                - type: outline_item
-                  id: PPCFKpWtBcfr5t48
-                  created: 1768275367995
-                  modified: 1768275401453
-                  value: Put 15% of each paycheck into savings
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 3
-                - type: outline_item
-                  id: kqQNtK1FqPkSgNg5
-                  created: 1768275379273
-                  modified: 1768275430358
-                  value: 'Practice Italian for 30 minutes, 5 days a week'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 3
-                - type: outline_item
-                  id: RQw9T_J0CBN4L6TX
-                  created: 1768275414668
-                  modified: 1768275425564
-                  value: 'Wake up at 5:30am every day'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                  priority: 4
-              page: false
-              collapsed: false
+                - value: >-
+                    This year's resolutions should focus on health, happiness, and more learning.  Also don't forget
+                    about family time and socialization.
+                  meta: 5Zjs4LpkjNlFMxVC/1768275775866/342493
+            - value: Confident
               view_type: ordered
               color: '#2484eb'
-            - type: outline_item
-              id: 0nQPgBPlz_71XCJD
-              created: 1768148487419
-              modified: 1768275468240
-              value: Maybe
+              meta: 58TwYyxKtlszX_V7/1768148479335/181240017
               children:
-                - type: outline_item
-                  id: r54Vgd201kvsmYH2
-                  created: 1768148492476
-                  modified: 1768275442452
-                  value: Cook dinner once a week for the family
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: yzql97PZ_x0tr59w
-                  created: 1768148494700
-                  modified: 1768275452399
-                  value: Figure out a European vacation plan
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: _49n_W0Z9zy3FrPw
-                  created: 1768275453319
-                  modified: 1768275467657
-                  value: Stop doom scrolling completely
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-                - type: outline_item
-                  id: '-ycFqYkLwFRgHjlg'
-                  created: 1768275468240
-                  modified: 1768275475241
-                  value: Cancel unused streaming subscriptions
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: null
-              page: false
-              collapsed: false
+                - value: Lose 10lbs
+                  priority: 2
+                  meta: gnqVG6bpJYyVx8Hg/1768148489659/33336576
+                - value: Go to the gym 2x a week
+                  collapsed: true
+                  priority: 2
+                  meta: F64qVwbfSk7s4gj9/1768148490986/126899456
+                  children:
+                    - value: Sub item
+                      meta: 9lXH8rwyPmTBmzBN/1768151266128/1427
+                    - value: Sub itme
+                      meta: lj3LcWqJ559CJ47b/1768151267803/948
+                - value: Walk Fido every day
+                  priority: 2
+                  meta: TZDPQn2RcXq5Tcrm/1768329575404/139758
+                - value: Read 24 books this year
+                  priority: 3
+                  meta: CDJ4P4mj3xRRvfwh/1768181834224/93561740
+                - value: Put 15% of each paycheck into savings
+                  priority: 3
+                  meta: PPCFKpWtBcfr5t48/1768275367995/33458
+                - value: 'Practice Italian for 30 minutes, 5 days a week'
+                  priority: 3
+                  meta: kqQNtK1FqPkSgNg5/1768275379273/51085
+                - value: 'Wake up at 5:30am every day'
+                  priority: 4
+                  meta: RQw9T_J0CBN4L6TX/1768275414668/10896
+            - value: Maybe
               view_type: ordered
               color: '#28b125'
-          page: true
-          collapsed: true
-          view_type: groups
-          color: null
-      page: false
-      collapsed: false
-      view_type: unordered
-      color: '#1496d7'
-    - type: outline_item
-      id: 6mHxZk3wtN-88bdn
-      created: 1768076574214
-      modified: 1768328068457
-      value: Roadmap
-      children:
-        - type: outline_item
-          id: _KzNWNkMSM9hxQ6L
-          created: 1768276287269
-          modified: 1768328064131
-          value: Near-term
-          children:
-            - type: outline_item
-              id: 69hJByfVMs2gK5cb
-              created: 1768328046157
-              modified: 1768328049163
-              value: Undo / redo
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: NK3lJy8bDmfl6YmQ
-              created: 1768276375527
-              modified: 1768276398540
-              value: Drag & drop / multi-select items
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: 1_mc0WvmlwkNl7KD
-              created: 1768276184966
-              modified: 1768276197386
-              value: Command palette
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: HjlQw6FFQmv-VCBy
-              created: 1768238096999
-              modified: 1768276193284
-              value: Search
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: wkMd_fF13-Zf6_mw
-              created: 1768276238085
-              modified: 1768276244540
-              value: Table view
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: GjfFJKMbH_mlMGnG
-              created: 1768276244873
-              modified: 1768276249416
-              value: Cards view (and image upload)
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: LlKBX6XX3Rg8gnWD
-              created: 1768276316123
-              modified: 1768276316877
-              value: Tags
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: VtDkq5YkYnJHJLH7
-              created: 1768276321643
-              modified: 1768276360949
-              value: Timer in the top bar
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: G_LfYgYtB9YstRCN
-              created: 1768276423922
-              modified: 1768276429382
-              value: Compact saved file
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: Ch_Clbw9fJ7lDwj9
-              created: 1768276450597
-              modified: 1768276455217
-              value: Archive items
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#d28989'
-        - type: outline_item
-          id: G-ZlplrJ702l63TP
-          created: 1768276201894
-          modified: 1768276599816
-          value: Longer term
-          children:
-            - type: outline_item
-              id: cdZhSy9xkSQk7c1-
-              created: 1768276533338
-              modified: 1768276535710
-              value: Offline mode
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: xMMpQwqNvXRZh4f-
-              created: 1768276461867
-              modified: 1768276464997
-              value: Mobile view
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: DdS4gr04dXz8r_nV
-              created: 1768276465205
-              modified: 1768276480981
-              value: Ability to end local files
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: K7Cd02YQ_nHpcXcl
-              created: 1768276198254
-              modified: 1768276338191
-              value: Filter views (e.g. hide completed todos)
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: sRVJ0JnBp3TxCNW5
-              created: 1768276386814
-              modified: 1768276386996
-              value: More useful blocks
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: k_nRnjpNF4yFBbJ_
-              created: 1768276593695
-              modified: 1768276599268
-              value: Locked sub-trees
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: HyQLYVYTcBC4skzZ
-              created: 1768276599816
-              modified: 1768276610460
-              value: File sharing
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: 03WZrz04ddk3sgYz
-              created: 1768076578069
-              modified: 1768276373919
-              value: Schemas for more complex view
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: SBbctMFM4y9KnGws
-              created: 1768276352679
-              modified: 1768276354613
-              value: Darkmode
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-            - type: outline_item
-              id: _5l8bjv8NgHPTHwq
-              created: 1768276407534
-              modified: 1768276414734
-              value: Dual-panel view (with drag & drop)
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: todo
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#d28989'
-        - type: outline_item
-          id: b9_gvTTkh1CC0hlm
-          created: 1768276444449
-          modified: 1768328068458
-          value: Done
-          children:
-            - type: outline_item
-              id: f-D2swMKR7W8NGLF
-              created: 1768076581513
-              modified: 1768181892873
-              value: Add todo type (and shortcut to convert and complete)
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-              status: done
-            - type: outline_item
-              id: B1TLFyvW7XBPdCfl
-              created: 1768076787741
-              modified: 1768181897069
-              value: pop-up help
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: done
-            - type: outline_item
-              id: 3lk-0wD5klZWVTDt
-              created: 1768186783035
-              modified: 1768232656911
-              value: Implement statistics
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-              status: done
-            - type: outline_item
-              id: '-htsCq3lBhwzb47Z'
-              created: 1768167268023
-              modified: 1768234731749
-              value: Add random
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: null
-              status: done
-            - type: outline_item
-              id: XdD_0ryvrfW4tFTN
-              created: 1768077294217
-              modified: 1768272881879
-              value: Article view
+              meta: 0nQPgBPlz_71XCJD/1768148487419/126980821
               children:
-                - type: outline_item
-                  id: 3CNc4c8-VKhHBQtr
-                  created: 1768077910831
-                  modified: 1768238134167
-                  value: Add this instead  of per-item notes
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#555'
-                - type: outline_item
-                  id: 37qVS86XHyvPVPH4
-                  created: 1768077911704
-                  modified: 1768238156840
-                  value: 'When the article view is root, it should be dual-column'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#555'
-                - type: outline_item
-                  id: N5MZjVsKz88RjcZ2
-                  created: 1768077911936
-                  modified: 1768238179044
-                  value: 'When it is not the root, render a static article view that when clicked on makes it the root'
-                  children: []
-                  page: false
-                  collapsed: false
-                  view_type: unordered
-                  color: '#555'
-              page: false
-              collapsed: true
-              view_type: unordered
-              color: null
-              status: done
-            - type: outline_item
-              id: pCfG3m2-rnWLZ2SN
-              created: 1768276190013
-              modified: 1768328062078
-              value: Weekly tracker view
-              children: []
-              page: false
-              collapsed: false
-              view_type: unordered
-              color: '#555'
-              status: done
-          page: false
-          collapsed: false
-          view_type: unordered
-          color: '#d28989'
-      page: false
-      collapsed: false
-      view_type: unordered
+                - value: Cook dinner once a week for the family
+                  meta: r54Vgd201kvsmYH2/1768148492476/126949976
+                - value: Figure out a European vacation plan
+                  meta: yzql97PZ_x0tr59w/1768148494700/126957699
+                - value: Stop doom scrolling completely
+                  meta: _49n_W0Z9zy3FrPw/1768275453319/14338
+                - value: Cancel unused streaming subscriptions
+                  meta: '-ycFqYkLwFRgHjlg/1768275468240/7001'
+    - value: Roadmap
       color: '#d28989'
-    - type: outline_item
-      id: gybPlPDyBzG1pHTy
-      created: 1768272839277
-      modified: 1768276492150
-      value: Known issues
+      meta: 6mHxZk3wtN-88bdn/1768076574214/251494243
       children:
-        - type: outline_item
-          id: yBnFkvqkjYCjQzgW
-          created: 1768276492150
-          modified: 1768276531013
-          value: File sync/merging implementation is questionable
-          children: []
-          page: false
-          collapsed: false
-          view_type: unordered
+        - value: Near-term
           color: '#d28989'
-        - type: outline_item
-          id: XFcq867bjNn-BnLM
-          created: 1768272841431
-          modified: 1768276491659
-          value: Probably lots of other things
-          children: []
-          page: false
-          collapsed: false
-          view_type: unordered
+          meta: _KzNWNkMSM9hxQ6L/1768276287269/51776862
+          children:
+            - value: Undo / redo
+              status: todo
+              color: '#555'
+              meta: 69hJByfVMs2gK5cb/1768328046157/3006
+            - value: Drag & drop / multi-select items
+              status: todo
+              color: '#555'
+              meta: NK3lJy8bDmfl6YmQ/1768276375527/23013
+            - value: Command palette
+              status: todo
+              color: '#555'
+              meta: 1_mc0WvmlwkNl7KD/1768276184966/12420
+            - value: Search
+              status: todo
+              color: '#555'
+              meta: HjlQw6FFQmv-VCBy/1768238096999/38096285
+            - value: Table view
+              status: todo
+              color: '#555'
+              meta: wkMd_fF13-Zf6_mw/1768276238085/6455
+            - value: Cards view (and image upload)
+              status: todo
+              color: '#555'
+              meta: GjfFJKMbH_mlMGnG/1768276244873/4543
+            - value: Tags
+              status: todo
+              color: '#555'
+              meta: LlKBX6XX3Rg8gnWD/1768276316123/754
+            - value: Timer in the top bar
+              status: todo
+              color: '#555'
+              meta: VtDkq5YkYnJHJLH7/1768276321643/39306
+            - value: Compact saved file
+              status: todo
+              color: '#555'
+              meta: G_LfYgYtB9YstRCN/1768276423922/5460
+            - value: Archive items
+              status: todo
+              color: '#555'
+              meta: Ch_Clbw9fJ7lDwj9/1768276450597/4620
+        - value: Longer term
           color: '#d28989'
-      page: false
-      collapsed: false
-      view_type: unordered
+          meta: G-ZlplrJ702l63TP/1768276201894/397922
+          children:
+            - value: Offline mode
+              status: todo
+              color: '#555'
+              meta: cdZhSy9xkSQk7c1-/1768276533338/2372
+            - value: Mobile view
+              status: todo
+              color: '#555'
+              meta: xMMpQwqNvXRZh4f-/1768276461867/3130
+            - value: Ability to end local files
+              status: todo
+              color: '#555'
+              meta: DdS4gr04dXz8r_nV/1768276465205/15776
+            - value: Filter views (e.g. hide completed todos)
+              status: todo
+              color: '#555'
+              meta: K7Cd02YQ_nHpcXcl/1768276198254/139937
+            - value: More useful blocks
+              status: todo
+              color: '#555'
+              meta: sRVJ0JnBp3TxCNW5/1768276386814/182
+            - value: Locked sub-trees
+              status: todo
+              color: '#555'
+              meta: k_nRnjpNF4yFBbJ_/1768276593695/5573
+            - value: File sharing
+              status: todo
+              color: '#555'
+              meta: HyQLYVYTcBC4skzZ/1768276599816/10644
+            - value: Schemas for more complex view
+              status: todo
+              color: '#555'
+              meta: 03WZrz04ddk3sgYz/1768076578069/199795850
+            - value: Darkmode
+              status: todo
+              color: '#555'
+              meta: SBbctMFM4y9KnGws/1768276352679/1934
+            - value: Dual-panel view (with drag & drop)
+              status: todo
+              color: '#555'
+              meta: _5l8bjv8NgHPTHwq/1768276407534/7200
+        - value: Done
+          color: '#d28989'
+          meta: b9_gvTTkh1CC0hlm/1768276444449/51624009
+          children:
+            - value: Add todo type (and shortcut to convert and complete)
+              status: done
+              meta: f-D2swMKR7W8NGLF/1768076581513/105311360
+            - value: pop-up help
+              status: done
+              color: '#555'
+              meta: B1TLFyvW7XBPdCfl/1768076787741/105109328
+            - value: Implement statistics
+              status: done
+              meta: 3lk-0wD5klZWVTDt/1768186783035/45873876
+            - value: Add random
+              status: done
+              meta: '-htsCq3lBhwzb47Z/1768167268023/67463726'
+            - value: Article view
+              collapsed: true
+              status: done
+              meta: XdD_0ryvrfW4tFTN/1768077294217/195587662
+              children:
+                - value: Add this instead  of per-item notes
+                  color: '#555'
+                  meta: 3CNc4c8-VKhHBQtr/1768077910831/160223336
+                - value: 'When the article view is root, it should be dual-column'
+                  color: '#555'
+                  meta: 37qVS86XHyvPVPH4/1768077911704/160245136
+                - value: 'When it is not the root, render a static article view that when clicked on makes it the root'
+                  color: '#555'
+                  meta: N5MZjVsKz88RjcZ2/1768077911936/160267108
+            - value: Weekly tracker view
+              status: done
+              color: '#555'
+              meta: pCfG3m2-rnWLZ2SN/1768276190013/51872065
+    - value: Known issues
       color: '#d28989'
-  page: true
-  collapsed: false
-  view_type: groups
-  color: '#555'
-base_hash: deec46d8
+      meta: gybPlPDyBzG1pHTy/1768272839277/3652873
+      children:
+        - value: File sync/merging implementation is questionable
+          color: '#d28989'
+          meta: yBnFkvqkjYCjQzgW/1768276492150/38863
+        - value: Probably lots of other things
+          color: '#d28989'
+          meta: XFcq867bjNn-BnLM/1768272841431/3650228
+base_hash: ad10b212
 view_root_id: B__MY_NCxD5yDGZq
-show_help: true
+show_help: false
 show_statistics: false
 bookmark_ids:
   - B__MY_NCxD5yDGZq
@@ -3173,4 +1213,5 @@ tombstones:
   vJ2LxPR_CH0sm0d_: 1768329267597
   Czxg65_vnHMdlSVW: 1768329318077
   whttl1MWgcyq9p7h: 1768330774719
-version: 0.1.0
+  VkXW5cTrfhGhcjKm: 1770497114999
+version: 0.2.0
